@@ -1,0 +1,219 @@
+"Economy","Code","Region","Income group","Lending category","Other (EMU or HIPC)","countrycode_en","countrycode_wb","Rank","Country","Combatant Command","Overall Score Normed","Demographic Domain Score","Health Care Domain Score","Public Health Domain Score","Disease Dynamics Domain Score","Political-Domestic Domain Score","Political-International Domain Score","Economic Domain Score"
+"Aruba","ABW","Latin America & Caribbean","High income",NA,NA,"Aruba","ABW",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Afghanistan","AFG","South Asia","Low income","IDA","HIPC","Afghanistan","AFG",8,"Afghanistan","CENTCOM",0.157034,0.151637325,0.199607537,0.326981557,0.707856514,0.073169519,0.362626952,0.077103098
+"Angola","AGO","Sub-Saharan Africa","Lower middle income","IBRD",NA,"Angola","AGO",6,"Angola","AFRICOM",0.148414,0.482859258,0.0008009,0.164124037,0.733107108,0.186137702,0.368890955,0.15088322
+"Albania","ALB","Europe & Central Asia","Upper middle income","IBRD",NA,"Albania","ALB",118,"Albania","EUCOM",0.626259,0.904696069,0.63796023,0.722971737,0.521323721,0.475157221,0.762993915,0.441433481
+"Andorra","AND","Europe & Central Asia","High income",NA,NA,"Andorra","AND",115,"Andorra","EUCOM",0.625221,0.899070911,0.81185289,0.335756658,0.630062854,0.739533878,0.766592386,0.626926946
+"United Arab Emirates","ARE","Middle East & North Africa","High income",NA,NA,"United Arab Emirates","ARE",161,"United Arab Emirates","CENTCOM",0.7652,0.847993152,0.716624307,0.804181184,0.598809732,0.636140693,0.520400766,0.861066271
+"Argentina","ARG","Latin America & Caribbean","Upper middle income","IBRD",NA,"Argentina","ARG",144,"Argentina","SOUTHCOM",0.707041,0.948178606,0.691269478,0.808518822,0.560647472,0.553572732,0.556525845,0.541805549
+"Armenia","ARM","Europe & Central Asia","Upper middle income","IBRD",NA,"Armenia","ARM",143,"Armenia","EUCOM",0.706912,0.927925843,0.673316098,0.895147994,0.863693546,0.465782742,0.483460443,0.470591816
+"American Samoa","ASM","East Asia & Pacific","Upper middle income",NA,NA,"American Samoa","ASM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Antigua and Barbuda","ATG","Latin America & Caribbean","High income","IBRD",NA,"Antigua & Barbuda","ATG",139,"Antigua and Barbuda","SOUTHCOM",0.693938,0.893937326,0.667623825,0.743665782,0.245617562,0.638321691,0.520411413,0.575972221
+"Australia","AUS","East Asia & Pacific","High income",NA,NA,"Australia","AUS",184,"Australia","PACOM",0.912517,0.975157866,0.812116885,0.870293921,0.47345486,0.924097329,0.74874504,0.827583221
+"Austria","AUT","Europe & Central Asia","High income",NA,"EMU","Austria","AUT",175,"Austria","EUCOM",0.874243,0.918195691,0.839263106,0.734866913,0.711301404,0.928260114,0.916531927,0.824196757
+"Azerbaijan","AZE","Europe & Central Asia","Upper middle income","IBRD",NA,"Azerbaijan","AZE",89,"Azerbaijan","EUCOM",0.550328,0.80274177,0.599807177,0.698233478,0.606958685,0.32056515,0.454723753,0.487222886
+"Burundi","BDI","Sub-Saharan Africa","Low income","IDA","HIPC","Burundi","BDI",39,"Burundi","AFRICOM",0.354104,0.677770717,0.28284965,0.595976924,0.446364064,0.219291185,0.278333482,0.018062778
+"Belgium","BEL","Europe & Central Asia","High income",NA,"EMU","Belgium","BEL",174,"Belgium","EUCOM",0.870933,0.890373515,0.881717583,0.795398952,0.494758354,0.87486074,0.832638483,0.819913866
+"Benin","BEN","Sub-Saharan Africa","Lower middle income","IDA","HIPC","Benin","BEN",14,"Benin","AFRICOM",0.206682,0.102429204,0.205857213,0.198587465,0.411218562,0.375126664,0.461867546,0.132700537
+"Burkina Faso","BFA","Sub-Saharan Africa","Low income","IDA","HIPC","Burkina Faso","BFA",20,"Burkina Faso","AFRICOM",0.231504,0.141437335,0.237090446,0.292575172,0.677980032,0.291887418,0.60014903,0.105762283
+"Bangladesh","BGD","South Asia","Lower middle income","IDA",NA,"Bangladesh","BGD",56,"Bangladesh","PACOM",0.422107,0.406154362,0.441798669,0.695174552,0.461126045,0.259707056,0.364340005,0.176276411
+"Bulgaria","BGR","Europe & Central Asia","Upper middle income","IBRD",NA,"Bulgaria","BGR",133,"Bulgaria","EUCOM",0.66612,0.925371964,0.743478619,0.559307838,0.896878102,0.602198036,0.982629857,0.612549843
+"Bahrain","BHR","Middle East & North Africa","High income",NA,NA,"Bahrain","BHR",130,"Bahrain","CENTCOM",0.663702,0.798762025,0.689760115,0.786015392,0.664865855,0.408603355,0.506871008,0.783172021
+"Bahamas, The","BHS","Latin America & Caribbean","High income",NA,NA,"Bahamas","BHS",126,"Bahamas","NORTHCOM",0.653653,0.918739251,0.703075636,0.575317882,0.492042096,0.645633246,0.777444015,0.553475774
+"Bosnia and Herzegovina","BIH","Europe & Central Asia","Upper middle income","IBRD",NA,"Bosnia & Herzegovina","BIH",79,"Bosnia and Herzegovina","EUCOM",0.523079,0.913672874,0.730287281,0.477584357,0.328960513,0.4335209,0.438477804,0.457486886
+"Belarus","BLR","Europe & Central Asia","Upper middle income","IBRD",NA,"Belarus","BLR",113,"Belarus","EUCOM",0.616419,0.948117465,0.853060744,0.737852159,0.729005525,0.28632401,0.339082773,0.558616977
+"Belize","BLZ","Latin America & Caribbean","Upper middle income","IBRD",NA,"Belize","BLZ",90,"Belize","SOUTHCOM",0.551546,0.771835129,0.602063419,0.649761602,0.463750568,0.486547326,0.705431728,0.181641854
+"Bermuda","BMU","North America","High income",NA,NA,"Bermuda","BMU",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bolivia","BOL","Latin America & Caribbean","Lower middle income","IBRD","HIPC","Bolivia","BOL",75,"Bolivia","SOUTHCOM",0.500436,0.783350995,0.468876416,0.550798937,0.609031246,0.436445721,0.483681062,0.35940819
+"Brazil","BRA","Latin America & Caribbean","Upper middle income","IBRD",NA,"Brazil","BRA",148,"Brazil","SOUTHCOM",0.716641,0.872669567,0.679129575,0.891725419,0.354111322,0.549222249,0.754472248,0.490921248
+"Barbados","BRB","Latin America & Caribbean","High income",NA,NA,"Barbados","BRB",135,"Barbados","SOUTHCOM",0.681515,0.859280737,0.659994467,0.636234961,0.433450974,0.702895509,0.697763236,0.565336196
+"Brunei Darussalam","BRN","East Asia & Pacific","High income",NA,NA,"Brunei","BRN",159,"Brunei","PACOM",0.762886,0.874687416,0.70489492,0.786619347,0.634752678,0.641875771,0.431018613,0.874246619
+"Bhutan","BTN","South Asia","Lower middle income","IDA",NA,"Bhutan","BTN",62,"Bhutan","PACOM",0.46088,0.452080334,0.483140955,0.488859839,0.605787331,0.490043329,0.262023123,0.356907842
+"Botswana","BWA","Sub-Saharan Africa","Upper middle income","IBRD",NA,"Botswana","BWA",87,"Botswana","AFRICOM",0.548363,0.754044035,0.454855452,0.498290934,0.47607347,0.614109149,0.663288916,0.470789877
+"Central African Republic","CAF","Sub-Saharan Africa","Low income","IDA","HIPC","Central African Republic","CAF",2,"Central African Republic","AFRICOM",6.1e-05,0.15529298,0,0.045046954,0.548852541,0.053250913,0.315859162,0.005423805
+"Canada","CAN","North America","High income",NA,NA,"Canada","CAN",194,"Canada","NORTHCOM",0.9734,0.963499583,0.772758496,0.997414055,0.718699352,0.945881533,0.916531927,0.826922627
+"Switzerland","CHE","Europe & Central Asia","High income",NA,NA,"Switzerland","CHE",185,"Switzerland","EUCOM",0.915839,0.890580942,0.772600784,0.801310024,0.70225779,1,0.74874504,0.894005898
+"Channel Islands","CHI","Europe & Central Asia","High income",NA,NA,"Channel Islands","CHI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chile","CHL","Latin America & Caribbean","High income","IBRD",NA,"Chile","CHL",168,"Chile","SOUTHCOM",0.801129,0.928226436,0.659547664,0.826950813,0.672161075,0.774959487,0.653402606,0.633205173
+"China","CHN","East Asia & Pacific","Upper middle income","IBRD",NA,"China","CHN",129,"China","PACOM",0.663535,0.803222219,0.660649638,0.912458141,0.727148738,0.347275227,0.771275554,0.524788199
+"Côte d’Ivoire","CIV","Sub-Saharan Africa","Lower middle income","IDA","HIPC","Côte d’Ivoire","CIV",28,"Côte d’Ivoire","AFRICOM",0.270743,0.149916663,0.198317769,0.480959396,0.293965416,0.244095631,0.2675316,0.21451864
+"Cameroon","CMR","Sub-Saharan Africa","Lower middle income","Blend","HIPC","Cameroon","CMR",50,"Cameroon","AFRICOM",0.38877,0.51903402,0.258084837,0.695554838,0.464468675,0.203603511,0.493377384,0.175481005
+"Congo, Dem. Rep.","COD","Sub-Saharan Africa","Low income","IDA","HIPC","Congo - Kinshasa","COD",11,"Democratic Republic of the Congo","AFRICOM",0.181762,0.393402129,0.12133578,0.369430992,0.378852278,0.109394181,0.368097103,0.052965522
+"Congo, Rep.","COG","Sub-Saharan Africa","Lower middle income","Blend","HIPC","Congo - Brazzaville","COG",26,"Republic of the Congo (Congo-Brazzaville)","AFRICOM",0.268887,0.570590666,0.437612936,0.316875454,0.28890352,0.178093753,0.30517259,0.252505538
+"Colombia","COL","Latin America & Caribbean","Upper middle income","IBRD",NA,"Colombia","COL",103,"Colombia","SOUTHCOM",0.58385,0.73590202,0.612534314,0.707762022,0.22902618,0.45935057,0.601974629,0.47801846
+"Comoros","COM","Sub-Saharan Africa","Lower middle income","IDA","HIPC","Comoros","COM",21,"Comoros","AFRICOM",0.238068,0.544585136,0.275448866,0.252023099,0.444342284,0.267647568,0.225866673,0.111809438
+"Cabo Verde","CPV","Sub-Saharan Africa","Lower middle income","Blend",NA,"Cape Verde","CPV",65,"Cape Verde","AFRICOM",0.486189,0.631853881,0.535080169,0.462030655,0.475776594,0.521787662,0.538518732,0.347072706
+"Costa Rica","CRI","Latin America & Caribbean","Upper middle income","IBRD",NA,"Costa Rica","CRI",154,"Costa Rica","SOUTHCOM",0.73696,0.894380479,0.653306234,0.87446043,0.362911742,0.620583237,0.660345256,0.534136689
+"Cuba","CUB","Latin America & Caribbean","Upper middle income",NA,NA,"Cuba","CUB",140,"Cuba","SOUTHCOM",0.69591,0.933526344,0.855484713,0.90303893,0.366456933,0.404214354,0.449537038,0.475762057
+"Curaçao","CUW","Latin America & Caribbean","High income",NA,NA,"Curaçao","CUW",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cayman Islands","CYM","Latin America & Caribbean","High income",NA,NA,"Cayman Islands","CYM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cyprus","CYP","Europe & Central Asia","High income",NA,"EMU","Cyprus","CYP",132,"Cyprus","EUCOM",0.66563,0.902755729,0.754888296,0.540426633,0.609054819,0.645857231,0.865849429,0.662576695
+"Czech Republic","CZE","Europe & Central Asia","High income",NA,NA,"Czechia","CZE",172,"Czech Republic","EUCOM",0.847175,0.906329381,0.858137428,0.841888926,0.675622303,0.758476946,0.916531927,0.754722666
+"Germany","DEU","Europe & Central Asia","High income",NA,"EMU","Germany","DEU",192,"Germany","EUCOM",0.96689,0.890219438,0.868542466,0.995094309,0.60005594,0.911542581,0.916531927,0.863184603
+"Djibouti","DJI","Middle East & North Africa","Lower middle income","IDA",NA,"Djibouti","DJI",31,"Djibouti","AFRICOM",0.297892,0.516489993,0.308140349,0.360228068,0.494501563,0.275017476,0.461575379,0.186799289
+"Dominica","DMA","Latin America & Caribbean","Upper middle income","Blend",NA,"Dominica","DMA",107,"Dominica","SOUTHCOM",0.60417,0.844714809,0.627354831,0.609489644,0.372910612,0.571179399,0.505129227,0.4850104
+"Denmark","DNK","Europe & Central Asia","High income",NA,NA,"Denmark","DNK",190,"Denmark","EUCOM",0.953641,0.916586212,0.880801307,0.903844661,0.612908784,0.959806464,0.916531927,0.8538081
+"Dominican Republic","DOM","Latin America & Caribbean","Upper middle income","IBRD",NA,"Dominican Republic","DOM",73,"Dominican Republic","SOUTHCOM",0.499533,0.651841382,0.52728257,0.561931812,0.34117008,0.41008651,0.751048964,0.487357273
+"Algeria","DZA","Middle East & North Africa","Lower middle income","IBRD",NA,"Algeria","DZA",72,"Algeria","AFRICOM",0.496612,0.706981418,0.558980692,0.611159847,0.656533024,0.317721818,0.398632623,0.437323933
+"Ecuador","ECU","Latin America & Caribbean","Upper middle income","IBRD",NA,"Ecuador","ECU",100,"Ecuador","SOUTHCOM",0.575843,0.722701117,0.595184777,0.707058492,0.678173471,0.428549787,0.427197843,0.405811804
+"Egypt, Arab Rep.","EGY","Middle East & North Africa","Lower middle income","IBRD",NA,"Egypt","EGY",80,"Egypt","CENTCOM",0.530405,0.618601857,0.592082614,0.772762422,0.790643968,0.241970707,0.566291639,0.396148261
+"Eritrea","ERI","Sub-Saharan Africa","Low income","IDA","HIPC","Eritrea","ERI",23,"Eritrea","AFRICOM",0.252978,0.514020768,0.410049982,0.45304433,0.482945814,0.0855761,0.09121531,0
+"Spain","ESP","Europe & Central Asia","High income",NA,"EMU","Spain","ESP",176,"Spain","EUCOM",0.875475,0.894413692,0.802359453,0.961553076,0.489746511,0.753628505,0.916531927,0.776630305
+"Estonia","EST","Europe & Central Asia","High income",NA,"EMU","Estonia","EST",167,"Estonia","EUCOM",0.797443,0.961311269,0.788655215,0.747311775,0.650866111,0.740860321,0.916531927,0.733650967
+"Ethiopia","ETH","Sub-Saharan Africa","Low income","IDA","HIPC","Ethiopia","ETH",47,"Ethiopia","AFRICOM",0.382021,0.28569545,0.39330463,0.622299852,0.499217243,0.272946162,0.492468433,0.156768353
+"Finland","FIN","Europe & Central Asia","High income",NA,"EMU","Finland","FIN",193,"Finland","EUCOM",0.968274,0.965048379,0.836351059,0.915424373,0.862049549,0.988425759,0.74874504,0.810382184
+"Fiji","FJI","East Asia & Pacific","Upper middle income","Blend",NA,"Fiji","FJI",95,"Fiji","PACOM",0.567238,0.912372761,0.550048845,0.793183785,0.338759095,0.315685028,0.457442072,0.404795695
+"France","FRA","Europe & Central Asia","High income",NA,"EMU","France","FRA",173,"France","EUCOM",0.855407,0.901560479,0.762328175,0.857658915,0.421396909,0.830016223,0.916531927,0.777041464
+"Faroe Islands","FRO","Europe & Central Asia","High income",NA,NA,"Faroe Islands","FRO",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Micronesia, Fed. Sts.","FSM","East Asia & Pacific","Lower middle income","IDA",NA,"Micronesia (Federated States of)","FSM",57,"Micronesia","PACOM",0.425305,0.618409374,0.547928079,0.460395425,0.5414935,0.423698655,0.046091838,0.167556551
+"Gabon","GAB","Sub-Saharan Africa","Upper middle income","IBRD",NA,"Gabon","GAB",52,"Gabon","AFRICOM",0.40295,0.607270396,0.461092427,0.411908948,0.391552681,0.347626656,0.507560675,0.468207358
+"United Kingdom","GBR","Europe & Central Asia","High income",NA,NA,"United Kingdom","GBR",181,"United Kingdom","EUCOM",0.897495,0.873066095,0.791637218,0.903418741,0.405362686,0.880595772,0.916531927,0.834119172
+"Georgia","GEO","Europe & Central Asia","Upper middle income","IBRD",NA,"Georgia","GEO",152,"Georgia","EUCOM",0.735821,0.932877706,0.688075552,0.933449934,0.67798806,0.521299946,0.557664397,0.459684241
+"Ghana","GHA","Sub-Saharan Africa","Lower middle income","IDA","HIPC","Ghana","GHA",63,"Ghana","AFRICOM",0.462565,0.526023873,0.370472249,0.543649558,0.431181585,0.500767939,0.616686004,0.248491531
+"Gibraltar","GIB","Europe & Central Asia","High income",NA,NA,"Gibraltar","GIB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Guinea","GIN","Sub-Saharan Africa","Low income","IDA","HIPC","Guinea","GIN",17,"Guinea","AFRICOM",0.213225,0.069168696,0.220723728,0.422224209,0.663071602,0.182076736,0.116032771,0.024189584
+"Gambia, The","GMB","Sub-Saharan Africa","Low income","IDA","HIPC","Gambia","GMB",15,"The Gambia","AFRICOM",0.207809,0.223431605,0.330645436,0.250325387,0.531156832,0.250433571,0.26696682,0.074090725
+"Guinea-Bissau","GNB","Sub-Saharan Africa","Low income","IDA","HIPC","Guinea-Bissau","GNB",13,"Guinea-Bissau","AFRICOM",0.187841,0.306480143,0.25150669,0.283305699,0.347653436,0.18650838,0.309947808,0.077079134
+"Equatorial Guinea","GNQ","Sub-Saharan Africa","Upper middle income","IBRD",NA,"Equatorial Guinea","GNQ",58,"Equatorial Guinea","AFRICOM",0.430054,0.86324907,0.211610892,0.637801825,0.400635817,0.215602062,0.220558685,0.519011312
+"Greece","GRC","Europe & Central Asia","High income",NA,"EMU","Greece","GRC",150,"Greece","EUCOM",0.734145,0.906991647,0.761757264,0.732615619,0.376826734,0.648846923,0.916531927,0.688365064
+"Grenada","GRD","Latin America & Caribbean","Upper middle income","Blend",NA,"Grenada","GRD",105,"Grenada","SOUTHCOM",0.597669,0.813492271,0.653378997,0.65938284,0.327863202,0.505583618,0.655573334,0.450723518
+"Greenland","GRL","Europe & Central Asia","High income",NA,NA,"Greenland","GRL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Guatemala","GTM","Latin America & Caribbean","Upper middle income","IBRD",NA,"Guatemala","GTM",64,"Guatemala","SOUTHCOM",0.477179,0.628594639,0.518759849,0.579187293,0.575328055,0.367784506,0.52762574,0.347084061
+"Guam","GUM","East Asia & Pacific","High income",NA,NA,"Guam","GUM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Guyana","GUY","Latin America & Caribbean","Upper middle income","IDA","HIPC","Guyana","GUY",91,"Guyana","SOUTHCOM",0.554987,0.891131054,0.458067511,0.708627172,0.296047164,0.416718306,0.628370039,0.391547761
+"Hong Kong SAR, China","HKG","East Asia & Pacific","High income",NA,NA,"Hong Kong SAR China","HKG",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Honduras","HND","Latin America & Caribbean","Lower middle income","IDA","HIPC","Honduras","HND",54,"Honduras","SOUTHCOM",0.407296,0.655168178,0.568583253,0.402040524,0.401156848,0.371453871,0.548887432,0.271822983
+"Croatia","HRV","Europe & Central Asia","High income","IBRD",NA,"Croatia","HRV",149,"Croatia","EUCOM",0.719996,0.931182251,0.775185048,0.677605334,0.542865728,0.666041416,0.690373454,0.629194341
+"Haiti","HTI","Latin America & Caribbean","Lower middle income","IDA","HIPC","Haiti","HTI",7,"Haiti","SOUTHCOM",0.149471,0.338437297,0.301310943,0.18504928,0.50577236,0.126225355,0.400839569,0.082264511
+"Hungary","HUN","Europe & Central Asia","High income",NA,NA,"Hungary","HUN",166,"Hungary","EUCOM",0.795623,0.918277432,0.780860606,0.795341909,0.612665331,0.718660223,0.74874504,0.716600159
+"Indonesia","IDN","East Asia & Pacific","Lower middle income","IBRD",NA,"Indonesia","IDN",94,"Indonesia","PACOM",0.562944,0.750619361,0.51111275,0.710992077,0.15555375,0.478663061,0.445239925,0.395961649
+"Isle of Man","IMN","Europe & Central Asia","High income",NA,NA,"Isle of Man","IMN",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"India","IND","South Asia","Lower middle income","IBRD",NA,"India","IND",71,"India","PACOM",0.493799,0.527272726,0.411687541,0.611043384,0.442952339,0.471933106,0.549585696,0.342247507
+"Ireland","IRL","Europe & Central Asia","High income",NA,"EMU","Ireland","IRL",182,"Ireland","EUCOM",0.90632,0.934977624,0.840624597,0.848802528,0.61732229,0.882121273,0.916531927,0.891881987
+"Iran, Islamic Rep.","IRN","Middle East & North Africa","Lower middle income","IBRD",NA,"Iran","IRN",96,"Iran","CENTCOM",0.567841,0.784483428,0.612522278,0.882104181,0.624311112,0.198250398,0.230460389,0.442781114
+"Iraq","IRQ","Middle East & North Africa","Upper middle income","IBRD",NA,"Iraq","IRQ",59,"Iraq","CENTCOM",0.432182,0.503984852,0.515920977,0.701934137,0.502859325,0.168166417,0.402990831,0.320138576
+"Iceland","ISL","Europe & Central Asia","High income",NA,NA,"Iceland","ISL",183,"Iceland","EUCOM",0.908112,1,0.858141488,0.827476084,0.668434151,0.918590951,0.74874504,0.793996266
+"Israel","ISR","Middle East & North Africa","High income",NA,NA,"Israel","ISR",163,"Israel","EUCOM",0.782439,0.854886204,0.770973902,0.919499772,0.600759896,0.581279009,0.379613864,0.747078747
+"Italy","ITA","Europe & Central Asia","High income",NA,"EMU","Italy","ITA",171,"Italy","EUCOM",0.82169,0.856231713,0.788830593,0.880230796,0.656117184,0.699886858,0.916531927,0.726620448
+"Jamaica","JAM","Latin America & Caribbean","Upper middle income","IBRD",NA,"Jamaica","JAM",74,"Jamaica","SOUTHCOM",0.499783,0.803953609,0.589106624,0.466499017,0.197174286,0.474726908,0.544630277,0.474210427
+"Jordan","JOR","Middle East & North Africa","Upper middle income","IBRD",NA,"Jordan","JOR",145,"Jordan","CENTCOM",0.707361,0.839002213,0.641234998,0.970736985,0.578743881,0.448303847,0.577261141,0.487309358
+"Japan","JPN","East Asia & Pacific","High income",NA,NA,"Japan","JPN",189,"Japan","PACOM",0.92641,0.891150261,0.808687785,0.971763758,0.493467108,0.903673298,0.580958154,0.777210348
+"Kazakhstan","KAZ","Europe & Central Asia","Upper middle income","IBRD",NA,"Kazakhstan","KAZ",109,"Kazakhstan","CENTCOM",0.607098,0.981048407,0.707658405,0.677881042,0.93945835,0.333781992,0.488876147,0.590940265
+"Kenya","KEN","Sub-Saharan Africa","Lower middle income","Blend",NA,"Kenya","KEN",48,"Kenya","AFRICOM",0.385436,0.610453351,0.415088725,0.489142677,0.406130325,0.316426717,0.518261714,0.20694373
+"Kyrgyz Republic","KGZ","Europe & Central Asia","Lower middle income","IDA",NA,"Kyrgyzstan","KGZ",93,"Kyrgyzstan","CENTCOM",0.555486,0.938771283,0.631595746,0.699298755,0.586997287,0.34098018,0.335903245,0.331551371
+"Cambodia","KHM","East Asia & Pacific","Lower middle income","IDA",NA,"Cambodia","KHM",41,"Cambodia","PACOM",0.355133,0.603977974,0.501870948,0.389329462,0.249954709,0.30794789,0.347829899,0.268339112
+"Kiribati","KIR","East Asia & Pacific","Lower middle income","IDA",NA,"Kiribati","KIR",49,"Kiribati","PACOM",0.388403,0.654475766,0.488085296,0.405577185,0.297866678,0.385759659,0.475592649,0.205151343
+"St. Kitts and Nevis","KNA","Latin America & Caribbean","High income","IBRD",NA,"St. Kitts & Nevis","KNA",138,"Saint Kitts and Nevis","SOUTHCOM",0.691572,0.881290256,0.712891102,0.657549997,0.346677987,0.665293245,0.829339569,0.62074865
+"Korea, Rep.","KOR","East Asia & Pacific","High income",NA,NA,"South Korea","KOR",179,"Republic of Korea (South Korea)","PACOM",0.879402,0.877557638,0.770987107,0.995797839,0.461237065,0.772828274,0.497064669,0.773109163
+"Kuwait","KWT","Middle East & North Africa","High income",NA,NA,"Kuwait","KWT",131,"Kuwait","CENTCOM",0.664856,0.81917289,0.713447831,0.766335587,0.667078749,0.419269242,0.524728011,0.77242657
+"Lao PDR","LAO","East Asia & Pacific","Lower middle income","IDA",NA,"Laos","LAO",40,"Laos","PACOM",0.355111,0.617197869,0.303718578,0.470396949,0.316874844,0.303216875,0.335972175,0.244014369
+"Lebanon","LBN","Middle East & North Africa","Lower middle income","IBRD",NA,"Lebanon","LBN",86,"Lebanon","CENTCOM",0.546332,0.795673254,0.703444198,0.598116034,0.671265282,0.359178936,0.531402066,0.496274896
+"Liberia","LBR","Sub-Saharan Africa","Low income","IDA","HIPC","Liberia","LBR",16,"Liberia","AFRICOM",0.213114,0.196208895,0.295150785,0.298018392,0.399575501,0.242897448,0.325809636,0.095770949
+"Libya","LBY","Middle East & North Africa","Upper middle income","IBRD",NA,"Libya","LBY",70,"Libya","AFRICOM",0.493272,0.874139158,0.677912554,0.690021675,0.905000916,0.13026655,0.266478037,0.354558564
+"St. Lucia","LCA","Latin America & Caribbean","Upper middle income","Blend",NA,"St. Lucia","LCA",78,"Saint Lucia","SOUTHCOM",0.516511,0.810879343,0.612550332,0.411353459,0.410794853,0.562974621,0.909730849,0.359239928
+"Liechtenstein","LIE","Europe & Central Asia","High income",NA,NA,"Liechtenstein","LIE",155,"Liechtenstein","EUCOM",0.737219,0.896106283,0.815727483,0.586614417,0.827747953,0.758091292,0.766592386,0.659550605
+"Sri Lanka","LKA","South Asia","Lower middle income","IDA",NA,"Sri Lanka","LKA",99,"Sri Lanka","PACOM",0.571001,0.824058144,0.711895651,0.665711887,0.324270477,0.403023718,0.408839796,0.464799504
+"Lesotho","LSO","Sub-Saharan Africa","Lower middle income","IDA",NA,"Lesotho","LSO",38,"Lesotho","AFRICOM",0.34486,0.699269239,0.193535354,0.381086761,0.494889941,0.403306048,0.485893078,0.124695851
+"Lithuania","LTU","Europe & Central Asia","High income",NA,"EMU","Lithuania","LTU",162,"Lithuania","EUCOM",0.771597,0.958628438,0.814773789,0.657041364,0.649251562,0.75532868,0.934379272,0.72347797
+"Luxembourg","LUX","Europe & Central Asia","High income",NA,"EMU","Luxembourg","LUX",177,"Luxembourg","EUCOM",0.875694,0.887993297,0.823089445,0.739297246,0.42133064,0.932009579,0.916531927,0.962689426
+"Latvia","LVA","Europe & Central Asia","High income",NA,"EMU","Latvia","LVA",160,"Latvia","EUCOM",0.763937,0.968617001,0.741818065,0.739791618,0.563571802,0.688153452,1,0.698508767
+"Macao SAR, China","MAC","East Asia & Pacific","High income",NA,NA,"Macao SAR China","MAC",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"St. Martin (French part)","MAF","Latin America & Caribbean","High income",NA,NA,"Saint Martin (French part)","MAF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Morocco","MAR","Middle East & North Africa","Lower middle income","IBRD",NA,"Morocco","MAR",98,"Morocco","AFRICOM",0.569769,0.434646778,0.528876434,0.84548263,0.577067854,0.391024483,0.482941077,0.379778141
+"Monaco","MCO","Europe & Central Asia","High income",NA,NA,"Monaco","MCO",157,"Monaco","EUCOM",0.753737,0.791810891,1,0.677690899,0.651556882,0.679101567,0.766592386,0.660443708
+"Moldova","MDA","Europe & Central Asia","Upper middle income","IBRD",NA,"Moldova","MDA",123,"Moldova","EUCOM",0.635987,0.917660729,0.71345235,0.709739509,0.675492376,0.472488646,0.533946795,0.449328928
+"Madagascar","MDG","Sub-Saharan Africa","Low income","IDA","HIPC","Madagascar","MDG",10,"Madagascar","AFRICOM",0.170787,0.472647362,0.40269105,0.038220819,0.345020655,0.313667918,0.161904122,0.020461077
+"Maldives","MDV","South Asia","Upper middle income","IDA",NA,"Maldives","MDV",101,"Maldives","PACOM",0.576299,0.841874404,0.71580204,0.615057779,0.499207759,0.42243462,0.365921875,0.541604906
+"Mexico","MEX","Latin America & Caribbean","Upper middle income","IBRD",NA,"Mexico","MEX",151,"Mexico","NORTHCOM",0.734971,0.895687193,0.681337082,0.929552001,0.484941568,0.543189203,0.602271831,0.501174898
+"Marshall Islands","MHL","East Asia & Pacific","Upper middle income","IDA",NA,"Marshall Islands","MHL",84,"Marshall Islands","PACOM",0.544611,0.733122429,0.56898489,0.709406759,0.48890968,0.377615668,0.356184447,0.384185218
+"North Macedonia","MKD","Europe & Central Asia","Upper middle income","IBRD",NA,"North Macedonia","MKD",136,"Macedonia (FYROM)","EUCOM",0.68599,0.90279095,0.749151161,0.84972282,0.322258652,0.471897252,0.458219533,0.536808101
+"Mali","MLI","Sub-Saharan Africa","Low income","IDA","HIPC","Mali","MLI",12,"Mali","AFRICOM",0.184254,0.179173821,0.138023501,0.2496769,0.49111854,0.249390347,0.450073263,0.149625848
+"Malta","MLT","Middle East & North Africa","High income",NA,"EMU","Malta","MLT",142,"Malta","EUCOM",0.706869,0.805461701,0.786086898,0.663106927,0.732150286,0.6068915,0.969012043,0.726319966
+"Myanmar","MMR","East Asia & Pacific","Lower middle income","IDA",NA,"Myanmar (Burma)","MMR",60,"Myanmar","PACOM",0.448176,0.77384107,0.379347207,0.807929378,0.379456154,0.137665674,0.213666835,0.225276745
+"Montenegro","MNE","Europe & Central Asia","Upper middle income","IBRD",NA,"Montenegro","MNE",112,"Montenegro","EUCOM",0.612065,0.93168502,0.738004329,0.460452468,0.680756338,0.614974382,0.754847687,0.537121927
+"Mongolia","MNG","East Asia & Pacific","Lower middle income","IBRD",NA,"Mongolia","MNG",117,"Mongolia","PACOM",0.626185,0.852084539,0.64245526,0.666272809,0.870250764,0.510046178,0.533128146,0.471441687
+"Northern Mariana Islands","MNP","East Asia & Pacific","High income",NA,NA,"Northern Mariana Islands","MNP",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mozambique","MOZ","Sub-Saharan Africa","Low income","IDA","HIPC","Mozambique","MOZ",25,"Mozambique","AFRICOM",0.262501,0.359585689,0.260453468,0.332816947,0.316911572,0.313880616,0.463545305,0.108794995
+"Mauritania","MRT","Sub-Saharan Africa","Lower middle income","IDA","HIPC","Mauritania","MRT",5,"Mauritania","AFRICOM",0.107294,0.303529503,0.200197996,0.013730395,0.542586879,0.199660007,0.267845057,0.219330172
+"Mauritius","MUS","Sub-Saharan Africa","Upper middle income","IBRD",NA,"Mauritius","MUS",122,"Mauritius","AFRICOM",0.635763,0.778503617,0.647800239,0.590301155,0.187100393,0.679208505,0.575721312,0.580459506
+"Malawi","MWI","Sub-Saharan Africa","Low income","IDA","HIPC","Malawi","MWI",29,"Malawi","AFRICOM",0.279987,0.458224208,0.358702184,0.288097304,0.339690734,0.3511682,0.388453718,0.083074415
+"Malaysia","MYS","East Asia & Pacific","Upper middle income","IBRD",NA,"Malaysia","MYS",158,"Malaysia","PACOM",0.761135,0.839176914,0.67687186,0.875655955,0.493083835,0.63334295,0.668769102,0.673280121
+"Namibia","NAM","Sub-Saharan Africa","Upper middle income","IBRD",NA,"Namibia","NAM",67,"Namibia","AFRICOM",0.490478,0.728321661,0.471954399,0.44645794,0.578010862,0.523755903,0.672243408,0.370783642
+"New Caledonia","NCL","East Asia & Pacific","High income",NA,NA,"New Caledonia","NCL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Niger","NER","Sub-Saharan Africa","Low income","IDA","HIPC","Niger","NER",9,"Niger","AFRICOM",0.166531,0,0.254825107,0.193413572,0.573089179,0.269691628,0.412882392,0.095023518
+"Nigeria","NGA","Sub-Saharan Africa","Lower middle income","Blend",NA,"Nigeria","NGA",27,"Nigeria","AFRICOM",0.270681,0.323201474,0.188728449,0.407012765,0.313685957,0.265472276,0.542161976,0.201149401
+"Nicaragua","NIC","Latin America & Caribbean","Lower middle income","IDA","HIPC","Nicaragua","NIC",69,"Nicaragua","SOUTHCOM",0.492491,0.638084587,0.566071409,0.660197738,0.232783952,0.364495143,0.442663666,0.291765645
+"Netherlands","NLD","Europe & Central Asia","High income",NA,"EMU","Netherlands","NLD",187,"Netherlands","EUCOM",0.918935,0.887076534,0.73337715,0.920957536,0.553404325,0.917862548,0.916531927,0.862303793
+"Norway","NOR","Europe & Central Asia","High income",NA,NA,"Norway","NOR",195,"Norway","EUCOM",1,0.961329861,0.898074321,1,0.592155487,0.956851809,0.74874504,0.928046396
+"Nepal","NPL","South Asia","Lower middle income","IDA",NA,"Nepal","NPL",53,"Nepal","PACOM",0.404405,0.43755136,0.45526256,0.61031371,0.463079764,0.278476918,0.285340204,0.207989533
+"Nauru","NRU","East Asia & Pacific","High income","IBRD",NA,"Nauru","NRU",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"New Zealand","NZL","East Asia & Pacific","High income",NA,NA,"New Zealand","NZL",186,"New Zealand","PACOM",0.916279,0.954940122,0.795754437,0.818929154,0.808190216,0.962851573,0.916531927,0.80260938
+"Oman","OMN","Middle East & North Africa","High income",NA,NA,"Oman","OMN",121,"Oman","CENTCOM",0.633743,0.748969293,0.678305802,0.723211144,0.593656334,0.476394997,0.477227234,0.605681428
+"Pakistan","PAK","South Asia","Lower middle income","Blend",NA,"Pakistan","PAK",32,"Pakistan","CENTCOM",0.308544,0.356313929,0.199267938,0.433297664,0.534440723,0.284108175,0.399359647,0.292054119
+"Panama","PAN","Latin America & Caribbean","High income","IBRD",NA,"Panama","PAN",108,"Panama","SOUTHCOM",0.606521,0.737928024,0.635029055,0.681807496,0.106062488,0.525841004,0.496356941,0.588123724
+"Peru","PER","Latin America & Caribbean","Upper middle income","IBRD",NA,"Peru","PER",125,"Peru","SOUTHCOM",0.64567,0.735230187,0.612136964,0.815447159,0.492684593,0.499915615,0.596351721,0.451805721
+"Philippines","PHL","East Asia & Pacific","Lower middle income","IBRD",NA,"Philippines","PHL",85,"Philippines","PACOM",0.544923,0.77982774,0.569482929,0.6075091,0.335072899,0.486973807,0.50580298,0.374891865
+"Palau","PLW","East Asia & Pacific","Upper middle income","IBRD",NA,"Palau","PLW",128,"Palau","PACOM",0.65801,0.940352086,0.669390872,0.773473082,0.563826585,0.461056723,0.513559461,0.550854819
+"Papua New Guinea","PNG","East Asia & Pacific","Lower middle income","Blend",NA,"Papua New Guinea","PNG",36,"Papua New Guinea","PACOM",0.339184,0.525901322,0.358755958,0.461298605,0.131831164,0.302787534,0.350931307,0.206087372
+"Poland","POL","Europe & Central Asia","High income","IBRD",NA,"Poland","POL",164,"Poland","EUCOM",0.782799,0.923971091,0.762207361,0.741059789,0.631680687,0.736503575,0.916531927,0.712935199
+"Puerto Rico","PRI","Latin America & Caribbean","High income",NA,NA,"Puerto Rico","PRI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea, Dem. People's Rep.","PRK","East Asia & Pacific","Low income",NA,NA,"North Korea","PRK",46,"Democratic People’s Republic of Korea (North Korea)","PACOM",0.37487,0.907296141,0.613281963,0.586079979,0.611464602,0.054304985,0,0.090100341
+"Portugal","PRT","Europe & Central Asia","High income",NA,"EMU","Portugal","PRT",180,"Portugal","EUCOM",0.888782,0.876638524,0.79732637,0.958073458,0.50904535,0.82395019,0.916531927,0.704209425
+"Paraguay","PRY","Latin America & Caribbean","Upper middle income","IBRD",NA,"Paraguay","PRY",83,"Paraguay","SOUTHCOM",0.541167,0.887420329,0.585820732,0.596008162,0.34557185,0.438463994,0.514414762,0.408028299
+"West Bank and Gaza","PSE","Middle East & North Africa","Lower middle income",NA,NA,"Palestinian Territories","PSE",61,"Palestine","CENTCOM",0.450415,0.7436505,0.501813229,0.642310982,0.604772521,0.248676492,0.261521404,0.223952424
+"French Polynesia","PYF","East Asia & Pacific","High income",NA,NA,"French Polynesia","PYF",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Qatar","QAT","Middle East & North Africa","High income",NA,NA,"Qatar","QAT",165,"Qatar","CENTCOM",0.787534,0.825534433,0.859447393,0.815278407,0.532726357,0.591668269,0.604075439,1
+"Romania","ROU","Europe & Central Asia","High income","IBRD",NA,"Romania","ROU",127,"Romania","EUCOM",0.657694,0.927839309,0.716370279,0.589635654,0.699722172,0.587542888,0.905312991,0.600400812
+"Russian Federation","RUS","Europe & Central Asia","Upper middle income","IBRD",NA,"Russia","RUS",124,"Russia","EUCOM",0.639878,0.805597169,0.79116595,0.738755338,0.863995549,0.395174473,0.359128816,0.582180922
+"Rwanda","RWA","Sub-Saharan Africa","Low income","IDA","HIPC","Rwanda","RWA",42,"Rwanda","AFRICOM",0.3553,0.485789716,0.462248927,0.428403858,0.316105011,0.352489703,0.416536032,0.125261052
+"Saudi Arabia","SAU","Middle East & North Africa","High income",NA,NA,"Saudi Arabia","SAU",153,"Saudi Arabia","CENTCOM",0.736844,0.874779695,0.658704202,0.990759048,1,0.366061648,0.550754044,0.733411275
+"Sudan","SDN","Sub-Saharan Africa","Low income","IDA","HIPC","Sudan","SDN",30,"Sudan","AFRICOM",0.29158,0.588865802,0.33955302,0.494972938,0.568033919,0.086367456,0.236802875,0.173847044
+"Senegal","SEN","Sub-Saharan Africa","Lower middle income","IDA","HIPC","Senegal","SEN",34,"Senegal","AFRICOM",0.329156,0.16895548,0.363332743,0.384433278,0.361880002,0.428403911,0.495175169,0.184325671
+"Singapore","SGP","East Asia & Pacific","High income",NA,NA,"Singapore","SGP",178,"Singapore","PACOM",0.878289,0.75400878,0.758425964,0.883394777,0.383877239,0.86306891,0.766592386,0.964234101
+"Solomon Islands","SLB","East Asia & Pacific","Lower middle income","IDA",NA,"Solomon Islands","SLB",45,"Solomon Islands","PACOM",0.370311,0.707450052,0.534428456,0.37671347,0,0.373395199,0.467899811,0.179128527
+"Sierra Leone","SLE","Sub-Saharan Africa","Low income","IDA","HIPC","Sierra Leone","SLE",19,"Sierra Leone","AFRICOM",0.223397,0.20367201,0.055611728,0.399252552,0.254903955,0.272075698,0.429440571,0.108721252
+"El Salvador","SLV","Latin America & Caribbean","Lower middle income","IBRD",NA,"El Salvador","SLV",110,"El Salvador","SOUTHCOM",0.607731,0.6191346,0.601234082,0.850540435,0.28724289,0.436493199,0.54421992,0.395198532
+"San Marino","SMR","Europe & Central Asia","High income",NA,NA,"San Marino","SMR",137,"San Marino","EUCOM",0.687314,0.877776833,0.836135825,0.561149509,0.518312718,0.679742104,0.766592386,0.64448737
+"Somalia","SOM","Sub-Saharan Africa","Low income","IDA","HIPC","Somalia","SOM",1,"Somalia","AFRICOM",0,0.348761269,0.058301438,0,0.629775134,0,0.102936726,0.075656481
+"Serbia","SRB","Europe & Central Asia","Upper middle income","IBRD",NA,"Serbia","SRB",97,"Serbia","EUCOM",0.568934,0.916239959,0.722244933,0.499384257,0.480581894,0.51660661,0.405971768,0.49360118
+"South Sudan","SSD","Sub-Saharan Africa","Low income","IDA",NA,"South Sudan","SSD",4,"South Sudan","AFRICOM",0.100836,0.007304932,0.231601644,0.18968877,0.415040266,0.084988387,0.355877361,0.186605024
+"São Tomé and Príncipe","STP","Sub-Saharan Africa","Lower middle income","IDA","HIPC","São Tomé & Príncipe","STP",18,"São Tomé and Príncipe","AFRICOM",0.223256,0.456315076,0.45499994,0.08756294,0.199137462,0.337999767,0.441651348,0.198939704
+"Suriname","SUR","Latin America & Caribbean","Upper middle income","IBRD",NA,"Suriname","SUR",92,"Suriname","SOUTHCOM",0.55532,0.954190989,0.606685909,0.590168054,0.174932096,0.452661043,0.598203123,0.470173357
+"Slovak Republic","SVK","Europe & Central Asia","High income",NA,"EMU","Slovakia","SVK",170,"Slovakia","EUCOM",0.808457,0.919371646,0.773671333,0.804174053,0.62721411,0.738761446,0.916531927,0.71531865
+"Slovenia","SVN","Europe & Central Asia","High income",NA,"EMU","Slovenia","SVN",169,"Slovenia","EUCOM",0.80579,0.924463067,0.800752319,0.699680942,0.673445333,0.811944312,0.930263357,0.75096352
+"Sweden","SWE","Europe & Central Asia","High income",NA,NA,"Sweden","SWE",191,"Sweden","EUCOM",0.955625,0.949114755,0.76126462,0.942120457,0.786708122,0.954243778,0.74874504,0.856365
+"Eswatini","SWZ","Sub-Saharan Africa","Lower middle income","IBRD",NA,"Eswatini","SWZ",43,"Swaziland","AFRICOM",0.35847,0.753558504,0.380812489,0.443187479,0.218933247,0.269991159,0.555068926,0.244366007
+"Sint Maarten (Dutch part)","SXM","Latin America & Caribbean","High income",NA,NA,"Sint Maarten","SXM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Seychelles","SYC","Sub-Saharan Africa","High income","IBRD",NA,"Seychelles","SYC",119,"Seychelles","AFRICOM",0.628108,0.810980857,0.657086791,0.687787494,0.390390083,0.494835838,0.518962829,0.655611717
+"Syrian Arab Republic","SYR","Middle East & North Africa","Low income","IDA",NA,"Syria","SYR",51,"Syria","CENTCOM",0.391337,0.766302674,0.625200685,0.600996701,0.624323285,0.04013296,0.300755443,0.284843637
+"Turks and Caicos Islands","TCA","Latin America & Caribbean","High income",NA,NA,"Turks & Caicos Islands","TCA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chad","TCD","Sub-Saharan Africa","Low income","IDA","HIPC","Chad","TCD",3,"Chad","AFRICOM",0.09845,0.21024639,0.049051336,0.18881211,0.543405231,0.115586538,0.259990693,0.10676029
+"Togo","TGO","Sub-Saharan Africa","Low income","IDA","HIPC","Togo","TGO",24,"Togo","AFRICOM",0.259396,0.405922983,0.301568399,0.417204432,0.154799483,0.210826371,0.273656224,0.115077926
+"Thailand","THA","East Asia & Pacific","Upper middle income","IBRD",NA,"Thailand","THA",147,"Thailand","PACOM",0.711334,0.885465372,0.62677221,0.962427734,0.62694065,0.437138287,0.727455976,0.521104959
+"Tajikistan","TJK","Europe & Central Asia","Lower middle income","IDA",NA,"Tajikistan","TJK",76,"Tajikistan","CENTCOM",0.507026,0.864911268,0.485530073,0.713000462,0.907404316,0.237810489,0.349216002,0.317040961
+"Turkmenistan","TKM","Europe & Central Asia","Upper middle income","IBRD",NA,"Turkmenistan","TKM",66,"Turkmenistan","CENTCOM",0.486696,0.866733101,0.50185344,0.662080155,0.675431715,0.177345824,0.245358453,0.567962822
+"Timor-Leste","TLS","East Asia & Pacific","Lower middle income","Blend",NA,"Timor-Leste","TLS",33,"Timor-Leste","PACOM",0.310208,0.479566717,0.363006819,0.402401796,0.379571232,0.253405013,0.287238579,0.252405183
+"Tonga","TON","East Asia & Pacific","Upper middle income","IDA",NA,"Tonga","TON",120,"Tonga","PACOM",0.630046,0.906132187,0.608256509,0.743499407,0.844821936,0.458585145,0.731682013,0.385257601
+"Trinidad and Tobago","TTO","Latin America & Caribbean","High income","IBRD",NA,"Trinidad & Tobago","TTO",104,"Trinidad and Tobago","SOUTHCOM",0.594998,0.891388245,0.593781874,0.588209581,0.297889543,0.523038962,0.702753024,0.620994685
+"Tunisia","TUN","Middle East & North Africa","Lower middle income","IBRD",NA,"Tunisia","TUN",82,"Tunisia","AFRICOM",0.535451,0.696018316,0.636184194,0.554231019,0.776448056,0.434017521,0.545007557,0.450207048
+"Türkiye","TUR","Europe & Central Asia","Upper middle income","IBRD",NA,"Turkey","TUR",134,"Turkey","EUCOM",0.677438,0.84102406,0.648323142,0.81050344,0.5061117,0.537330939,0.262969703,0.541217747
+"Tuvalu","TUV","East Asia & Pacific","Upper middle income","IDA",NA,"Tuvalu","TUV",111,"Tuvalu","PACOM",0.608741,0.875628325,0.618086156,0.755212219,0.642248938,0.444856565,0.258611146,0.363272122
+"Taiwan, China","TWN","East Asia & Pacific","High income",NA,NA,"Taiwan","TWN",146,"Taiwan","PACOM",0.709691,0.882856201,0.704312641,0.68002837,0.456275152,0.664178777,0.296789098,0.765940269
+"Tanzania","TZA","Sub-Saharan Africa","Lower middle income","IDA","HIPC","Tanzania","TZA",37,"Tanzania","AFRICOM",0.340445,0.515884251,0.42046585,0.37514479,0.404598376,0.346796951,0.569472596,0.15939076
+"Uganda","UGA","Sub-Saharan Africa","Low income","IDA","HIPC","Uganda","UGA",44,"Uganda","AFRICOM",0.36585,0.588681047,0.41351401,0.458546659,0.373898751,0.333622855,0.332674624,0.144241411
+"Ukraine","UKR","Europe & Central Asia","Lower middle income","IBRD",NA,"Ukraine","UKR",114,"Ukraine","EUCOM",0.617343,0.936893751,0.758059683,0.746176146,0.502357605,0.369668189,0.517646543,0.470738673
+"Uruguay","URY","Latin America & Caribbean","High income","IBRD",NA,"Uruguay","URY",156,"Uruguay","SOUTHCOM",0.745957,0.950686562,0.740102998,0.662935798,0.438108226,0.773395983,0.909711237,0.607551891
+"United States","USA","North America","High income",NA,NA,"United States","USA",188,"United States","NORTHCOM",0.924939,0.796419884,0.800665522,0.97031867,0.377648988,0.895287308,0.916531927,0.876147651
+"Uzbekistan","UZB","Europe & Central Asia","Lower middle income","Blend",NA,"Uzbekistan","UZB",77,"Uzbekistan","CENTCOM",0.515492,0.921624713,0.576668339,0.664856243,0.853273942,0.245043684,0.310194908,0.383443552
+"St. Vincent and the Grenadines","VCT","Latin America & Caribbean","Upper middle income","Blend",NA,"St. Vincent & Grenadines","VCT",88,"Saint Vincent and the Grenadines","SOUTHCOM",0.549145,0.819932978,0.602106622,0.471895005,0.372237992,0.594954664,0.607374498,0.41767656
+"Venezuela, RB","VEN","Latin America & Caribbean",NA,"IBRD",NA,"Venezuela","VEN",81,"Venezuela","SOUTHCOM",0.530692,0.897045602,0.619258291,0.690349672,0.39175468,0.30915459,0.210215036,0.383245346
+"British Virgin Islands","VGB","Latin America & Caribbean","High income",NA,NA,"British Virgin Islands","VGB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Virgin Islands (U.S.)","VIR","Latin America & Caribbean","High income",NA,NA,"U.S. Virgin Islands","VIR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Vietnam","VNM","East Asia & Pacific","Lower middle income","IBRD",NA,"Vietnam","VNM",116,"Vietnam","PACOM",0.626124,0.768735331,0.591621982,0.904871434,0.41531068,0.382561816,0.423894556,0.399912654
+"Vanuatu","VUT","East Asia & Pacific","Lower middle income","IDA",NA,"Vanuatu","VUT",68,"Vanuatu","PACOM",0.490878,0.716342676,0.548938734,0.533251326,0.828054424,0.436297938,0.424226226,0.217200362
+"Samoa","WSM","East Asia & Pacific","Lower middle income","IDA",NA,"Samoa","WSM",102,"Samoa","PACOM",0.580679,0.921508717,0.592935194,0.676569055,0.366383014,0.490973549,0.632269107,0.264505253
+"Kosovo","XKX","Europe & Central Asia","Upper middle income","IDA",NA,"Kosovo","XKX",106,"Kosovo","EUCOM",0.599085,0.812337384,0.64667112,0.700404301,0.948019768,0.421397702,0.297036976,0.43229239
+"Yemen, Rep.","YEM","Middle East & North Africa","Low income","IDA",NA,"Yemen","YEM",22,"Yemen","CENTCOM",0.250277,0.433731647,0.431651802,0.332075013,0.800080626,0.104453177,0.284363402,0.21272156
+"South Africa","ZAF","Sub-Saharan Africa","Upper middle income","IBRD",NA,"South Africa","ZAF",141,"South Africa","AFRICOM",0.697292,0.739000698,0.492333001,0.910898968,0.728928869,0.555658151,0.806992812,0.458012442
+"Zambia","ZMB","Sub-Saharan Africa","Low income","IDA","HIPC","Zambia","ZMB",55,"Zambia","AFRICOM",0.420459,0.43163488,0.365427589,0.580965131,0.520140049,0.388834572,0.589087275,0.160896589
+"Zimbabwe","ZWE","Sub-Saharan Africa","Lower middle income","Blend",NA,"Zimbabwe","ZWE",35,"Zimbabwe","AFRICOM",0.337478,0.697284238,0.343816002,0.485627407,0.653775962,0.199349794,0.410356268,0.102445378

@@ -1,0 +1,219 @@
+"Economy","Code","Region","Income group","Lending category","Other (EMU or HIPC)","countrycode_en","countrycode_wb","ISO2","ISO3","AAL_Normalized"
+"Aruba","ABW","Latin America & Caribbean","High income",NA,NA,"Aruba","ABW",NA,NA,NA
+"Afghanistan","AFG","South Asia","Low income","IDA","HIPC","Afghanistan","AFG","AF","AFG",5.251
+"Angola","AGO","Sub-Saharan Africa","Lower middle income","IBRD",NA,"Angola","AGO","AO","AGO",5.559
+"Albania","ALB","Europe & Central Asia","Upper middle income","IBRD",NA,"Albania","ALB","AL","ALB",3.005
+"Andorra","AND","Europe & Central Asia","High income",NA,NA,"Andorra","AND",NA,NA,NA
+"United Arab Emirates","ARE","Middle East & North Africa","High income",NA,NA,"United Arab Emirates","ARE",NA,NA,NA
+"Argentina","ARG","Latin America & Caribbean","Upper middle income","IBRD",NA,"Argentina","ARG","AR","ARG",1.982
+"Armenia","ARM","Europe & Central Asia","Upper middle income","IBRD",NA,"Armenia","ARM","AM","ARM",2.396
+"American Samoa","ASM","East Asia & Pacific","Upper middle income",NA,NA,"American Samoa","ASM",NA,NA,NA
+"Antigua and Barbuda","ATG","Latin America & Caribbean","High income","IBRD",NA,"Antigua & Barbuda","ATG","AG","ATG",2.691
+"Australia","AUS","East Asia & Pacific","High income",NA,NA,"Australia","AUS",NA,NA,NA
+"Austria","AUT","Europe & Central Asia","High income",NA,"EMU","Austria","AUT",NA,NA,NA
+"Azerbaijan","AZE","Europe & Central Asia","Upper middle income","IBRD",NA,"Azerbaijan","AZE","AZ","AZE",2.851
+"Burundi","BDI","Sub-Saharan Africa","Low income","IDA","HIPC","Burundi","BDI","BI","BDI",4.934
+"Belgium","BEL","Europe & Central Asia","High income",NA,"EMU","Belgium","BEL",NA,NA,NA
+"Benin","BEN","Sub-Saharan Africa","Lower middle income","IDA","HIPC","Benin","BEN","BJ","BEN",4.864
+"Burkina Faso","BFA","Sub-Saharan Africa","Low income","IDA","HIPC","Burkina Faso","BFA","BF","BFA",5.108
+"Bangladesh","BGD","South Asia","Lower middle income","IDA",NA,"Bangladesh","BGD","BD","BGD",3.379
+"Bulgaria","BGR","Europe & Central Asia","Upper middle income","IBRD",NA,"Bulgaria","BGR","BG","BGR",2.404
+"Bahrain","BHR","Middle East & North Africa","High income",NA,NA,"Bahrain","BHR",NA,NA,NA
+"Bahamas, The","BHS","Latin America & Caribbean","High income",NA,NA,"Bahamas","BHS",NA,NA,NA
+"Bosnia and Herzegovina","BIH","Europe & Central Asia","Upper middle income","IBRD",NA,"Bosnia & Herzegovina","BIH","BA","BIH",2.876
+"Belarus","BLR","Europe & Central Asia","Upper middle income","IBRD",NA,"Belarus","BLR","BY","BLR",2.191
+"Belize","BLZ","Latin America & Caribbean","Upper middle income","IBRD",NA,"Belize","BLZ","BZ","BLZ",3.354
+"Bermuda","BMU","North America","High income",NA,NA,"Bermuda","BMU",NA,NA,NA
+"Bolivia","BOL","Latin America & Caribbean","Lower middle income","IBRD","HIPC","Bolivia","BOL","BO","BOL",3.294
+"Brazil","BRA","Latin America & Caribbean","Upper middle income","IBRD",NA,"Brazil","BRA","BR","BRA",2.444
+"Barbados","BRB","Latin America & Caribbean","High income",NA,NA,"Barbados","BRB",NA,NA,NA
+"Brunei Darussalam","BRN","East Asia & Pacific","High income",NA,NA,"Brunei","BRN",NA,NA,NA
+"Bhutan","BTN","South Asia","Lower middle income","IDA",NA,"Bhutan","BTN","BT","BTN",2.909
+"Botswana","BWA","Sub-Saharan Africa","Upper middle income","IBRD",NA,"Botswana","BWA","BW","BWA",2.803
+"Central African Republic","CAF","Sub-Saharan Africa","Low income","IDA","HIPC","Central African Republic","CAF","CF","CAF",7.357
+"Canada","CAN","North America","High income",NA,NA,"Canada","CAN",NA,NA,NA
+"Switzerland","CHE","Europe & Central Asia","High income",NA,NA,"Switzerland","CHE",NA,NA,NA
+"Channel Islands","CHI","Europe & Central Asia","High income",NA,NA,"Channel Islands","CHI",NA,NA,NA
+"Chile","CHL","Latin America & Caribbean","High income","IBRD",NA,"Chile","CHL","CL","CHL",2.492
+"China","CHN","East Asia & Pacific","Upper middle income","IBRD",NA,"China","CHN","CN","CHN",2.367
+"Côte d’Ivoire","CIV","Sub-Saharan Africa","Lower middle income","IDA","HIPC","Côte d’Ivoire","CIV","CI","CIV",3.366
+"Cameroon","CMR","Sub-Saharan Africa","Lower middle income","Blend","HIPC","Cameroon","CMR","CM","CMR",4.001
+"Congo, Dem. Rep.","COD","Sub-Saharan Africa","Low income","IDA","HIPC","Congo - Kinshasa","COD","CD","COD",5.703
+"Congo, Rep.","COG","Sub-Saharan Africa","Lower middle income","Blend","HIPC","Congo - Brazzaville","COG","CG","COG",5.158
+"Colombia","COL","Latin America & Caribbean","Upper middle income","IBRD",NA,"Colombia","COL","CO","COL",2.956
+"Comoros","COM","Sub-Saharan Africa","Lower middle income","IDA","HIPC","Comoros","COM","KM","COM",4.686
+"Cabo Verde","CPV","Sub-Saharan Africa","Lower middle income","Blend",NA,"Cape Verde","CPV","CV","CPV",3.273
+"Costa Rica","CRI","Latin America & Caribbean","Upper middle income","IBRD",NA,"Costa Rica","CRI","CR","CRI",2.543
+"Cuba","CUB","Latin America & Caribbean","Upper middle income",NA,NA,"Cuba","CUB",NA,NA,NA
+"Curaçao","CUW","Latin America & Caribbean","High income",NA,NA,"Curaçao","CUW",NA,NA,NA
+"Cayman Islands","CYM","Latin America & Caribbean","High income",NA,NA,"Cayman Islands","CYM",NA,NA,NA
+"Cyprus","CYP","Europe & Central Asia","High income",NA,"EMU","Cyprus","CYP",NA,NA,NA
+"Czech Republic","CZE","Europe & Central Asia","High income",NA,NA,"Czechia","CZE",NA,NA,NA
+"Germany","DEU","Europe & Central Asia","High income",NA,"EMU","Germany","DEU",NA,NA,NA
+"Djibouti","DJI","Middle East & North Africa","Lower middle income","IDA",NA,"Djibouti","DJI","DJ","DJI",4.042
+"Dominica","DMA","Latin America & Caribbean","Upper middle income","Blend",NA,"Dominica","DMA","DM","DMA",2.342
+"Denmark","DNK","Europe & Central Asia","High income",NA,NA,"Denmark","DNK",NA,NA,NA
+"Dominican Republic","DOM","Latin America & Caribbean","Upper middle income","IBRD",NA,"Dominican Republic","DOM","DO","DOM",3.252
+"Algeria","DZA","Middle East & North Africa","Lower middle income","IBRD",NA,"Algeria","DZA","DZ","DZA",3.169
+"Ecuador","ECU","Latin America & Caribbean","Upper middle income","IBRD",NA,"Ecuador","ECU","EC","ECU",2.884
+"Egypt, Arab Rep.","EGY","Middle East & North Africa","Lower middle income","IBRD",NA,"Egypt","EGY","EG","EGY",2.26
+"Eritrea","ERI","Sub-Saharan Africa","Low income","IDA","HIPC","Eritrea","ERI","ER","ERI",6.102
+"Spain","ESP","Europe & Central Asia","High income",NA,"EMU","Spain","ESP",NA,NA,NA
+"Estonia","EST","Europe & Central Asia","High income",NA,"EMU","Estonia","EST",NA,NA,NA
+"Ethiopia","ETH","Sub-Saharan Africa","Low income","IDA","HIPC","Ethiopia","ETH","ET","ETH",6.149
+"Finland","FIN","Europe & Central Asia","High income",NA,"EMU","Finland","FIN",NA,NA,NA
+"Fiji","FJI","East Asia & Pacific","Upper middle income","Blend",NA,"Fiji","FJI","FJ","FJI",2.677
+"France","FRA","Europe & Central Asia","High income",NA,"EMU","France","FRA",NA,NA,NA
+"Faroe Islands","FRO","Europe & Central Asia","High income",NA,NA,"Faroe Islands","FRO",NA,NA,NA
+"Micronesia, Fed. Sts.","FSM","East Asia & Pacific","Lower middle income","IDA",NA,"Micronesia (Federated States of)","FSM","FM","FSM",3.138
+"Gabon","GAB","Sub-Saharan Africa","Upper middle income","IBRD",NA,"Gabon","GAB","GA","GAB",4.561
+"United Kingdom","GBR","Europe & Central Asia","High income",NA,NA,"United Kingdom","GBR",NA,NA,NA
+"Georgia","GEO","Europe & Central Asia","Upper middle income","IBRD",NA,"Georgia","GEO","GE","GEO",2.273
+"Ghana","GHA","Sub-Saharan Africa","Lower middle income","IDA","HIPC","Ghana","GHA","GH","GHA",3.61
+"Gibraltar","GIB","Europe & Central Asia","High income",NA,NA,"Gibraltar","GIB",NA,NA,NA
+"Guinea","GIN","Sub-Saharan Africa","Low income","IDA","HIPC","Guinea","GIN","GN","GIN",4.827
+"Gambia, The","GMB","Sub-Saharan Africa","Low income","IDA","HIPC","Gambia","GMB","GM","GMB",4.725
+"Guinea-Bissau","GNB","Sub-Saharan Africa","Low income","IDA","HIPC","Guinea-Bissau","GNB","GW","GNB",5.269
+"Equatorial Guinea","GNQ","Sub-Saharan Africa","Upper middle income","IBRD",NA,"Equatorial Guinea","GNQ","GQ","GNQ",6.673
+"Greece","GRC","Europe & Central Asia","High income",NA,"EMU","Greece","GRC",NA,NA,NA
+"Grenada","GRD","Latin America & Caribbean","Upper middle income","Blend",NA,"Grenada","GRD","GD","GRD",2.879
+"Greenland","GRL","Europe & Central Asia","High income",NA,NA,"Greenland","GRL",NA,NA,NA
+"Guatemala","GTM","Latin America & Caribbean","Upper middle income","IBRD",NA,"Guatemala","GTM","GT","GTM",3.452
+"Guam","GUM","East Asia & Pacific","High income",NA,NA,"Guam","GUM",NA,NA,NA
+"Guyana","GUY","Latin America & Caribbean","Upper middle income","IDA","HIPC","Guyana","GUY","GY","GUY",3.3
+"Hong Kong SAR, China","HKG","East Asia & Pacific","High income",NA,NA,"Hong Kong SAR China","HKG",NA,NA,NA
+"Honduras","HND","Latin America & Caribbean","Lower middle income","IDA","HIPC","Honduras","HND","HN","HND",3.322
+"Croatia","HRV","Europe & Central Asia","High income","IBRD",NA,"Croatia","HRV","HR","HRV",2.379
+"Haiti","HTI","Latin America & Caribbean","Lower middle income","IDA","HIPC","Haiti","HTI","HT","HTI",5.182
+"Hungary","HUN","Europe & Central Asia","High income",NA,NA,"Hungary","HUN",NA,NA,NA
+"Indonesia","IDN","East Asia & Pacific","Lower middle income","IBRD",NA,"Indonesia","IDN","ID","IDN",3.305
+"Isle of Man","IMN","Europe & Central Asia","High income",NA,NA,"Isle of Man","IMN",NA,NA,NA
+"India","IND","South Asia","Lower middle income","IBRD",NA,"India","IND","IN","IND",3.191
+"Ireland","IRL","Europe & Central Asia","High income",NA,"EMU","Ireland","IRL",NA,NA,NA
+"Iran, Islamic Rep.","IRN","Middle East & North Africa","Lower middle income","IBRD",NA,"Iran","IRN","IR","IRN",2.774
+"Iraq","IRQ","Middle East & North Africa","Upper middle income","IBRD",NA,"Iraq","IRQ","IQ","IRQ",3.333
+"Iceland","ISL","Europe & Central Asia","High income",NA,NA,"Iceland","ISL",NA,NA,NA
+"Israel","ISR","Middle East & North Africa","High income",NA,NA,"Israel","ISR",NA,NA,NA
+"Italy","ITA","Europe & Central Asia","High income",NA,"EMU","Italy","ITA",NA,NA,NA
+"Jamaica","JAM","Latin America & Caribbean","Upper middle income","IBRD",NA,"Jamaica","JAM","JM","JAM",3.071
+"Jordan","JOR","Middle East & North Africa","Upper middle income","IBRD",NA,"Jordan","JOR","JO","JOR",2.5
+"Japan","JPN","East Asia & Pacific","High income",NA,NA,"Japan","JPN",NA,NA,NA
+"Kazakhstan","KAZ","Europe & Central Asia","Upper middle income","IBRD",NA,"Kazakhstan","KAZ","KZ","KAZ",2.847
+"Kenya","KEN","Sub-Saharan Africa","Lower middle income","Blend",NA,"Kenya","KEN","KE","KEN",3.727
+"Kyrgyz Republic","KGZ","Europe & Central Asia","Lower middle income","IDA",NA,"Kyrgyzstan","KGZ","KG","KGZ",2.811
+"Cambodia","KHM","East Asia & Pacific","Lower middle income","IDA",NA,"Cambodia","KHM","KH","KHM",3.769
+"Kiribati","KIR","East Asia & Pacific","Lower middle income","IDA",NA,"Kiribati","KIR","KI","KIR",2.794
+"St. Kitts and Nevis","KNA","Latin America & Caribbean","High income","IBRD",NA,"St. Kitts & Nevis","KNA","KN","KNA",2.708
+"Korea, Rep.","KOR","East Asia & Pacific","High income",NA,NA,"South Korea","KOR",NA,NA,NA
+"Kuwait","KWT","Middle East & North Africa","High income",NA,NA,"Kuwait","KWT",NA,NA,NA
+"Lao PDR","LAO","East Asia & Pacific","Lower middle income","IDA",NA,"Laos","LAO","LA","LAO",3.895
+"Lebanon","LBN","Middle East & North Africa","Lower middle income","IBRD",NA,"Lebanon","LBN","LB","LBN",3.206
+"Liberia","LBR","Sub-Saharan Africa","Low income","IDA","HIPC","Liberia","LBR","LR","LBR",4.551
+"Libya","LBY","Middle East & North Africa","Upper middle income","IBRD",NA,"Libya","LBY","LY","LBY",3.252
+"St. Lucia","LCA","Latin America & Caribbean","Upper middle income","Blend",NA,"St. Lucia","LCA","LC","LCA",2.991
+"Liechtenstein","LIE","Europe & Central Asia","High income",NA,NA,"Liechtenstein","LIE",NA,NA,NA
+"Sri Lanka","LKA","South Asia","Lower middle income","IDA",NA,"Sri Lanka","LKA","LK","LKA",3.153
+"Lesotho","LSO","Sub-Saharan Africa","Lower middle income","IDA",NA,"Lesotho","LSO","LS","LSO",3.394
+"Lithuania","LTU","Europe & Central Asia","High income",NA,"EMU","Lithuania","LTU",NA,NA,NA
+"Luxembourg","LUX","Europe & Central Asia","High income",NA,"EMU","Luxembourg","LUX",NA,NA,NA
+"Latvia","LVA","Europe & Central Asia","High income",NA,"EMU","Latvia","LVA",NA,NA,NA
+"Macao SAR, China","MAC","East Asia & Pacific","High income",NA,NA,"Macao SAR China","MAC",NA,NA,NA
+"St. Martin (French part)","MAF","Latin America & Caribbean","High income",NA,NA,"Saint Martin (French part)","MAF",NA,NA,NA
+"Morocco","MAR","Middle East & North Africa","Lower middle income","IBRD",NA,"Morocco","MAR","MA","MAR",2.301
+"Monaco","MCO","Europe & Central Asia","High income",NA,NA,"Monaco","MCO",NA,NA,NA
+"Moldova","MDA","Europe & Central Asia","Upper middle income","IBRD",NA,"Moldova","MDA","MD","MDA",2.375
+"Madagascar","MDG","Sub-Saharan Africa","Low income","IDA","HIPC","Madagascar","MDG","MG","MDG",5.805
+"Maldives","MDV","South Asia","Upper middle income","IDA",NA,"Maldives","MDV","MV","MDV",2.798
+"Mexico","MEX","Latin America & Caribbean","Upper middle income","IBRD",NA,"Mexico","MEX","MX","MEX",3.066
+"Marshall Islands","MHL","East Asia & Pacific","Upper middle income","IDA",NA,"Marshall Islands","MHL","MH","MHL",2.925
+"North Macedonia","MKD","Europe & Central Asia","Upper middle income","IBRD",NA,"North Macedonia","MKD","MK","MKD",2.305
+"Mali","MLI","Sub-Saharan Africa","Low income","IDA","HIPC","Mali","MLI","ML","MLI",5.46
+"Malta","MLT","Middle East & North Africa","High income",NA,"EMU","Malta","MLT",NA,NA,NA
+"Myanmar","MMR","East Asia & Pacific","Lower middle income","IDA",NA,"Myanmar (Burma)","MMR","MM","MMR",3.541
+"Montenegro","MNE","Europe & Central Asia","Upper middle income","IBRD",NA,"Montenegro","MNE","ME","MNE",2.358
+"Mongolia","MNG","East Asia & Pacific","Lower middle income","IBRD",NA,"Mongolia","MNG","MN","MNG",2.806
+"Northern Mariana Islands","MNP","East Asia & Pacific","High income",NA,NA,"Northern Mariana Islands","MNP",NA,NA,NA
+"Mozambique","MOZ","Sub-Saharan Africa","Low income","IDA","HIPC","Mozambique","MOZ","MZ","MOZ",5.127
+"Mauritania","MRT","Sub-Saharan Africa","Lower middle income","IDA","HIPC","Mauritania","MRT","MR","MRT",4.417
+"Mauritius","MUS","Sub-Saharan Africa","Upper middle income","IBRD",NA,"Mauritius","MUS","MU","MUS",2.642
+"Malawi","MWI","Sub-Saharan Africa","Low income","IDA","HIPC","Malawi","MWI","MW","MWI",4.754
+"Malaysia","MYS","East Asia & Pacific","Upper middle income","IBRD",NA,"Malaysia","MYS","MY","MYS",2.74
+"Namibia","NAM","Sub-Saharan Africa","Upper middle income","IBRD",NA,"Namibia","NAM",NA,"NAM",6.949
+"New Caledonia","NCL","East Asia & Pacific","High income",NA,NA,"New Caledonia","NCL",NA,NA,NA
+"Niger","NER","Sub-Saharan Africa","Low income","IDA","HIPC","Niger","NER","NE","NER",4.833
+"Nigeria","NGA","Sub-Saharan Africa","Lower middle income","Blend",NA,"Nigeria","NGA","NG","NGA",5.385
+"Nicaragua","NIC","Latin America & Caribbean","Lower middle income","IDA","HIPC","Nicaragua","NIC","NI","NIC",3.082
+"Netherlands","NLD","Europe & Central Asia","High income",NA,"EMU","Netherlands","NLD",NA,NA,NA
+"Norway","NOR","Europe & Central Asia","High income",NA,NA,"Norway","NOR",NA,NA,NA
+"Nepal","NPL","South Asia","Lower middle income","IDA",NA,"Nepal","NPL","NP","NPL",3.222
+"Nauru","NRU","East Asia & Pacific","High income","IBRD",NA,"Nauru","NRU","NR","NRU",3.498
+"New Zealand","NZL","East Asia & Pacific","High income",NA,NA,"New Zealand","NZL",NA,NA,NA
+"Oman","OMN","Middle East & North Africa","High income",NA,NA,"Oman","OMN",NA,NA,NA
+"Pakistan","PAK","South Asia","Lower middle income","Blend",NA,"Pakistan","PAK","PK","PAK",4.867
+"Panama","PAN","Latin America & Caribbean","High income","IBRD",NA,"Panama","PAN","PA","PAN",2.921
+"Peru","PER","Latin America & Caribbean","Upper middle income","IBRD",NA,"Peru","PER","PE","PER",3.281
+"Philippines","PHL","East Asia & Pacific","Lower middle income","IBRD",NA,"Philippines","PHL","PH","PHL",3.405
+"Palau","PLW","East Asia & Pacific","Upper middle income","IBRD",NA,"Palau","PLW","PW","PLW",3.707
+"Papua New Guinea","PNG","East Asia & Pacific","Lower middle income","Blend",NA,"Papua New Guinea","PNG","PG","PNG",5.121
+"Poland","POL","Europe & Central Asia","High income","IBRD",NA,"Poland","POL","PL","POL",2.269
+"Puerto Rico","PRI","Latin America & Caribbean","High income",NA,NA,"Puerto Rico","PRI",NA,NA,NA
+"Korea, Dem. People's Rep.","PRK","East Asia & Pacific","Low income",NA,NA,"North Korea","PRK",NA,NA,NA
+"Portugal","PRT","Europe & Central Asia","High income",NA,"EMU","Portugal","PRT",NA,NA,NA
+"Paraguay","PRY","Latin America & Caribbean","Upper middle income","IBRD",NA,"Paraguay","PRY","PY","PRY",2.71
+"West Bank and Gaza","PSE","Middle East & North Africa","Lower middle income",NA,NA,"Palestinian Territories","PSE",NA,NA,NA
+"French Polynesia","PYF","East Asia & Pacific","High income",NA,NA,"French Polynesia","PYF",NA,NA,NA
+"Qatar","QAT","Middle East & North Africa","High income",NA,NA,"Qatar","QAT",NA,NA,NA
+"Romania","ROU","Europe & Central Asia","High income","IBRD",NA,"Romania","ROU","RO","ROU",2.68
+"Russian Federation","RUS","Europe & Central Asia","Upper middle income","IBRD",NA,"Russia","RUS","RU","RUS",2.467
+"Rwanda","RWA","Sub-Saharan Africa","Low income","IDA","HIPC","Rwanda","RWA","RW","RWA",3.669
+"Saudi Arabia","SAU","Middle East & North Africa","High income",NA,NA,"Saudi Arabia","SAU",NA,NA,NA
+"Sudan","SDN","Sub-Saharan Africa","Low income","IDA","HIPC","Sudan","SDN","SD","SDN",4.689
+"Senegal","SEN","Sub-Saharan Africa","Lower middle income","IDA","HIPC","Senegal","SEN","SN","SEN",4.647
+"Singapore","SGP","East Asia & Pacific","High income",NA,NA,"Singapore","SGP",NA,NA,NA
+"Solomon Islands","SLB","East Asia & Pacific","Lower middle income","IDA",NA,"Solomon Islands","SLB","SB","SLB",3.499
+"Sierra Leone","SLE","Sub-Saharan Africa","Low income","IDA","HIPC","Sierra Leone","SLE","SL","SLE",3.714
+"El Salvador","SLV","Latin America & Caribbean","Lower middle income","IBRD",NA,"El Salvador","SLV","SV","SLV",3.048
+"San Marino","SMR","Europe & Central Asia","High income",NA,NA,"San Marino","SMR",NA,NA,NA
+"Somalia","SOM","Sub-Saharan Africa","Low income","IDA","HIPC","Somalia","SOM","SO","SOM",9.102
+"Serbia","SRB","Europe & Central Asia","Upper middle income","IBRD",NA,"Serbia","SRB","RS","SRB",3.03
+"South Sudan","SSD","Sub-Saharan Africa","Low income","IDA",NA,"South Sudan","SSD","SS","SSD",7.376
+"São Tomé and Príncipe","STP","Sub-Saharan Africa","Lower middle income","IDA","HIPC","São Tomé & Príncipe","STP","ST","STP",3.34
+"Suriname","SUR","Latin America & Caribbean","Upper middle income","IBRD",NA,"Suriname","SUR","SR","SUR",3.152
+"Slovak Republic","SVK","Europe & Central Asia","High income",NA,"EMU","Slovakia","SVK",NA,NA,NA
+"Slovenia","SVN","Europe & Central Asia","High income",NA,"EMU","Slovenia","SVN",NA,NA,NA
+"Sweden","SWE","Europe & Central Asia","High income",NA,NA,"Sweden","SWE",NA,NA,NA
+"Eswatini","SWZ","Sub-Saharan Africa","Lower middle income","IBRD",NA,"Eswatini","SWZ","SZ","SWZ",3.677
+"Sint Maarten (Dutch part)","SXM","Latin America & Caribbean","High income",NA,NA,"Sint Maarten","SXM",NA,NA,NA
+"Seychelles","SYC","Sub-Saharan Africa","High income","IBRD",NA,"Seychelles","SYC","SC","SYC",2.507
+"Syrian Arab Republic","SYR","Middle East & North Africa","Low income","IDA",NA,"Syria","SYR","SY","SYR",4.078
+"Turks and Caicos Islands","TCA","Latin America & Caribbean","High income",NA,NA,"Turks & Caicos Islands","TCA",NA,NA,NA
+"Chad","TCD","Sub-Saharan Africa","Low income","IDA","HIPC","Chad","TCD","TD","TCD",6.768
+"Togo","TGO","Sub-Saharan Africa","Low income","IDA","HIPC","Togo","TGO","TG","TGO",4.791
+"Thailand","THA","East Asia & Pacific","Upper middle income","IBRD",NA,"Thailand","THA","TH","THA",2.443
+"Tajikistan","TJK","Europe & Central Asia","Lower middle income","IDA",NA,"Tajikistan","TJK","TJ","TJK",2.847
+"Turkmenistan","TKM","Europe & Central Asia","Upper middle income","IBRD",NA,"Turkmenistan","TKM","TM","TKM",2.837
+"Timor-Leste","TLS","East Asia & Pacific","Lower middle income","Blend",NA,"Timor-Leste","TLS","TL","TLS",3.471
+"Tonga","TON","East Asia & Pacific","Upper middle income","IDA",NA,"Tonga","TON","TO","TON",2.835
+"Trinidad and Tobago","TTO","Latin America & Caribbean","High income","IBRD",NA,"Trinidad & Tobago","TTO","TT","TTO",3.142
+"Tunisia","TUN","Middle East & North Africa","Lower middle income","IBRD",NA,"Tunisia","TUN","TN","TUN",2.478
+"Türkiye","TUR","Europe & Central Asia","Upper middle income","IBRD",NA,"Turkey","TUR","TR","TUR",3.173
+"Tuvalu","TUV","East Asia & Pacific","Upper middle income","IDA",NA,"Tuvalu","TUV","TV","TUV",1.98
+"Taiwan, China","TWN","East Asia & Pacific","High income",NA,NA,"Taiwan","TWN",NA,NA,NA
+"Tanzania","TZA","Sub-Saharan Africa","Lower middle income","IDA","HIPC","Tanzania","TZA","TZ","TZA",4.871
+"Uganda","UGA","Sub-Saharan Africa","Low income","IDA","HIPC","Uganda","UGA","UG","UGA",5.25
+"Ukraine","UKR","Europe & Central Asia","Lower middle income","IBRD",NA,"Ukraine","UKR","UA","UKR",3.012
+"Uruguay","URY","Latin America & Caribbean","High income","IBRD",NA,"Uruguay","URY","UY","URY",2.119
+"United States","USA","North America","High income",NA,NA,"United States","USA",NA,NA,NA
+"Uzbekistan","UZB","Europe & Central Asia","Lower middle income","Blend",NA,"Uzbekistan","UZB","UZ","UZB",2.738
+"St. Vincent and the Grenadines","VCT","Latin America & Caribbean","Upper middle income","Blend",NA,"St. Vincent & Grenadines","VCT","VC","VCT",3.039
+"Venezuela, RB","VEN","Latin America & Caribbean",NA,"IBRD",NA,"Venezuela","VEN","VE","VEN",3.236
+"British Virgin Islands","VGB","Latin America & Caribbean","High income",NA,NA,"British Virgin Islands","VGB",NA,NA,NA
+"Virgin Islands (U.S.)","VIR","Latin America & Caribbean","High income",NA,NA,"U.S. Virgin Islands","VIR",NA,NA,NA
+"Vietnam","VNM","East Asia & Pacific","Lower middle income","IBRD",NA,"Vietnam","VNM","VN","VNM",2.567
+"Vanuatu","VUT","East Asia & Pacific","Lower middle income","IDA",NA,"Vanuatu","VUT","VU","VUT",3.327
+"Samoa","WSM","East Asia & Pacific","Lower middle income","IDA",NA,"Samoa","WSM","WS","WSM",2.975
+"Kosovo","XKX","Europe & Central Asia","Upper middle income","IDA",NA,"Kosovo","XKX",NA,NA,NA
+"Yemen, Rep.","YEM","Middle East & North Africa","Low income","IDA",NA,"Yemen","YEM","YE","YEM",5.346
+"South Africa","ZAF","Sub-Saharan Africa","Upper middle income","IBRD",NA,"South Africa","ZAF","ZA","ZAF",2.669
+"Zambia","ZMB","Sub-Saharan Africa","Low income","IDA","HIPC","Zambia","ZMB","ZM","ZMB",3.598
+"Zimbabwe","ZWE","Sub-Saharan Africa","Lower middle income","Blend",NA,"Zimbabwe","ZWE","ZW","ZWE",3.775

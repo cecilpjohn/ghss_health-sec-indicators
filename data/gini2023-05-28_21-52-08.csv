@@ -1,0 +1,219 @@
+"Economy","Code","Region","Income group","Lending category","Other (EMU or HIPC)","countrycode_en","countrycode_wb","Country Name","Country Code","Indicator Name","Indicator Code","Year","Gini"
+"Aruba","ABW","Latin America & Caribbean","High income",NA,NA,"Aruba","ABW",NA,NA,NA,NA,NA,NA
+"Afghanistan","AFG","South Asia","Low income","IDA","HIPC","Afghanistan","AFG",NA,NA,NA,NA,NA,NA
+"Angola","AGO","Sub-Saharan Africa","Lower middle income","IBRD",NA,"Angola","AGO","Angola","AGO","Gini index","SI.POV.GINI","2018",51.3
+"Albania","ALB","Europe & Central Asia","Upper middle income","IBRD",NA,"Albania","ALB","Albania","ALB","Gini index","SI.POV.GINI","2020",29.4
+"Andorra","AND","Europe & Central Asia","High income",NA,NA,"Andorra","AND",NA,NA,NA,NA,NA,NA
+"United Arab Emirates","ARE","Middle East & North Africa","High income",NA,NA,"United Arab Emirates","ARE","United Arab Emirates","ARE","Gini index","SI.POV.GINI","2018",26
+"Argentina","ARG","Latin America & Caribbean","Upper middle income","IBRD",NA,"Argentina","ARG","Argentina","ARG","Gini index","SI.POV.GINI","2021",42
+"Armenia","ARM","Europe & Central Asia","Upper middle income","IBRD",NA,"Armenia","ARM","Armenia","ARM","Gini index","SI.POV.GINI","2021",27.9
+"American Samoa","ASM","East Asia & Pacific","Upper middle income",NA,NA,"American Samoa","ASM",NA,NA,NA,NA,NA,NA
+"Antigua and Barbuda","ATG","Latin America & Caribbean","High income","IBRD",NA,"Antigua & Barbuda","ATG",NA,NA,NA,NA,NA,NA
+"Australia","AUS","East Asia & Pacific","High income",NA,NA,"Australia","AUS","Australia","AUS","Gini index","SI.POV.GINI","2018",34.3
+"Austria","AUT","Europe & Central Asia","High income",NA,"EMU","Austria","AUT","Austria","AUT","Gini index","SI.POV.GINI","2020",29.8
+"Azerbaijan","AZE","Europe & Central Asia","Upper middle income","IBRD",NA,"Azerbaijan","AZE","Azerbaijan","AZE","Gini index","SI.POV.GINI","2005",26.6
+"Burundi","BDI","Sub-Saharan Africa","Low income","IDA","HIPC","Burundi","BDI","Burundi","BDI","Gini index","SI.POV.GINI","2013",38.6
+"Belgium","BEL","Europe & Central Asia","High income",NA,"EMU","Belgium","BEL","Belgium","BEL","Gini index","SI.POV.GINI","2020",26
+"Benin","BEN","Sub-Saharan Africa","Lower middle income","IDA","HIPC","Benin","BEN","Benin","BEN","Gini index","SI.POV.GINI","2018",37.8
+"Burkina Faso","BFA","Sub-Saharan Africa","Low income","IDA","HIPC","Burkina Faso","BFA","Burkina Faso","BFA","Gini index","SI.POV.GINI","2018",47.3
+"Bangladesh","BGD","South Asia","Lower middle income","IDA",NA,"Bangladesh","BGD","Bangladesh","BGD","Gini index","SI.POV.GINI","2016",32.4
+"Bulgaria","BGR","Europe & Central Asia","Upper middle income","IBRD",NA,"Bulgaria","BGR","Bulgaria","BGR","Gini index","SI.POV.GINI","2020",40.5
+"Bahrain","BHR","Middle East & North Africa","High income",NA,NA,"Bahrain","BHR",NA,NA,NA,NA,NA,NA
+"Bahamas, The","BHS","Latin America & Caribbean","High income",NA,NA,"Bahamas","BHS",NA,NA,NA,NA,NA,NA
+"Bosnia and Herzegovina","BIH","Europe & Central Asia","Upper middle income","IBRD",NA,"Bosnia & Herzegovina","BIH","Bosnia and Herzegovina","BIH","Gini index","SI.POV.GINI","2011",33
+"Belarus","BLR","Europe & Central Asia","Upper middle income","IBRD",NA,"Belarus","BLR","Belarus","BLR","Gini index","SI.POV.GINI","2020",24.4
+"Belize","BLZ","Latin America & Caribbean","Upper middle income","IBRD",NA,"Belize","BLZ",NA,NA,NA,NA,NA,NA
+"Bermuda","BMU","North America","High income",NA,NA,"Bermuda","BMU",NA,NA,NA,NA,NA,NA
+"Bolivia","BOL","Latin America & Caribbean","Lower middle income","IBRD","HIPC","Bolivia","BOL","Bolivia","BOL","Gini index","SI.POV.GINI","2021",40.9
+"Brazil","BRA","Latin America & Caribbean","Upper middle income","IBRD",NA,"Brazil","BRA","Brazil","BRA","Gini index","SI.POV.GINI","2021",52.9
+"Barbados","BRB","Latin America & Caribbean","High income",NA,NA,"Barbados","BRB",NA,NA,NA,NA,NA,NA
+"Brunei Darussalam","BRN","East Asia & Pacific","High income",NA,NA,"Brunei","BRN",NA,NA,NA,NA,NA,NA
+"Bhutan","BTN","South Asia","Lower middle income","IDA",NA,"Bhutan","BTN","Bhutan","BTN","Gini index","SI.POV.GINI","2017",37.4
+"Botswana","BWA","Sub-Saharan Africa","Upper middle income","IBRD",NA,"Botswana","BWA","Botswana","BWA","Gini index","SI.POV.GINI","2015",53.3
+"Central African Republic","CAF","Sub-Saharan Africa","Low income","IDA","HIPC","Central African Republic","CAF","Central African Republic","CAF","Gini index","SI.POV.GINI","2008",56.2
+"Canada","CAN","North America","High income",NA,NA,"Canada","CAN","Canada","CAN","Gini index","SI.POV.GINI","2018",32.5
+"Switzerland","CHE","Europe & Central Asia","High income",NA,NA,"Switzerland","CHE","Switzerland","CHE","Gini index","SI.POV.GINI","2018",33.1
+"Channel Islands","CHI","Europe & Central Asia","High income",NA,NA,"Channel Islands","CHI",NA,NA,NA,NA,NA,NA
+"Chile","CHL","Latin America & Caribbean","High income","IBRD",NA,"Chile","CHL","Chile","CHL","Gini index","SI.POV.GINI","2020",44.9
+"China","CHN","East Asia & Pacific","Upper middle income","IBRD",NA,"China","CHN","China","CHN","Gini index","SI.POV.GINI","2019",38.2
+"Côte d’Ivoire","CIV","Sub-Saharan Africa","Lower middle income","IDA","HIPC","Côte d’Ivoire","CIV","Cote d'Ivoire","CIV","Gini index","SI.POV.GINI","2018",37.2
+"Cameroon","CMR","Sub-Saharan Africa","Lower middle income","Blend","HIPC","Cameroon","CMR","Cameroon","CMR","Gini index","SI.POV.GINI","2014",46.6
+"Congo, Dem. Rep.","COD","Sub-Saharan Africa","Low income","IDA","HIPC","Congo - Kinshasa","COD","Congo, Dem. Rep.","COD","Gini index","SI.POV.GINI","2012",42.1
+"Congo, Rep.","COG","Sub-Saharan Africa","Lower middle income","Blend","HIPC","Congo - Brazzaville","COG","Congo, Rep.","COG","Gini index","SI.POV.GINI","2011",48.9
+"Colombia","COL","Latin America & Caribbean","Upper middle income","IBRD",NA,"Colombia","COL","Colombia","COL","Gini index","SI.POV.GINI","2021",51.5
+"Comoros","COM","Sub-Saharan Africa","Lower middle income","IDA","HIPC","Comoros","COM","Comoros","COM","Gini index","SI.POV.GINI","2014",45.3
+"Cabo Verde","CPV","Sub-Saharan Africa","Lower middle income","Blend",NA,"Cape Verde","CPV","Cabo Verde","CPV","Gini index","SI.POV.GINI","2015",42.4
+"Costa Rica","CRI","Latin America & Caribbean","Upper middle income","IBRD",NA,"Costa Rica","CRI","Costa Rica","CRI","Gini index","SI.POV.GINI","2021",48.7
+"Cuba","CUB","Latin America & Caribbean","Upper middle income",NA,NA,"Cuba","CUB",NA,NA,NA,NA,NA,NA
+"Curaçao","CUW","Latin America & Caribbean","High income",NA,NA,"Curaçao","CUW",NA,NA,NA,NA,NA,NA
+"Cayman Islands","CYM","Latin America & Caribbean","High income",NA,NA,"Cayman Islands","CYM",NA,NA,NA,NA,NA,NA
+"Cyprus","CYP","Europe & Central Asia","High income",NA,"EMU","Cyprus","CYP","Cyprus","CYP","Gini index","SI.POV.GINI","2020",31.7
+"Czech Republic","CZE","Europe & Central Asia","High income",NA,NA,"Czechia","CZE","Czechia","CZE","Gini index","SI.POV.GINI","2020",26.2
+"Germany","DEU","Europe & Central Asia","High income",NA,"EMU","Germany","DEU","Germany","DEU","Gini index","SI.POV.GINI","2019",31.7
+"Djibouti","DJI","Middle East & North Africa","Lower middle income","IDA",NA,"Djibouti","DJI","Djibouti","DJI","Gini index","SI.POV.GINI","2017",41.6
+"Dominica","DMA","Latin America & Caribbean","Upper middle income","Blend",NA,"Dominica","DMA",NA,NA,NA,NA,NA,NA
+"Denmark","DNK","Europe & Central Asia","High income",NA,NA,"Denmark","DNK","Denmark","DNK","Gini index","SI.POV.GINI","2020",27.5
+"Dominican Republic","DOM","Latin America & Caribbean","Upper middle income","IBRD",NA,"Dominican Republic","DOM","Dominican Republic","DOM","Gini index","SI.POV.GINI","2021",38.5
+"Algeria","DZA","Middle East & North Africa","Lower middle income","IBRD",NA,"Algeria","DZA","Algeria","DZA","Gini index","SI.POV.GINI","2011",27.6
+"Ecuador","ECU","Latin America & Caribbean","Upper middle income","IBRD",NA,"Ecuador","ECU","Ecuador","ECU","Gini index","SI.POV.GINI","2021",45.8
+"Egypt, Arab Rep.","EGY","Middle East & North Africa","Lower middle income","IBRD",NA,"Egypt","EGY","Egypt, Arab Rep.","EGY","Gini index","SI.POV.GINI","2019",31.9
+"Eritrea","ERI","Sub-Saharan Africa","Low income","IDA","HIPC","Eritrea","ERI",NA,NA,NA,NA,NA,NA
+"Spain","ESP","Europe & Central Asia","High income",NA,"EMU","Spain","ESP","Spain","ESP","Gini index","SI.POV.GINI","2020",34.9
+"Estonia","EST","Europe & Central Asia","High income",NA,"EMU","Estonia","EST","Estonia","EST","Gini index","SI.POV.GINI","2020",30.7
+"Ethiopia","ETH","Sub-Saharan Africa","Low income","IDA","HIPC","Ethiopia","ETH","Ethiopia","ETH","Gini index","SI.POV.GINI","2015",35
+"Finland","FIN","Europe & Central Asia","High income",NA,"EMU","Finland","FIN","Finland","FIN","Gini index","SI.POV.GINI","2020",27.1
+"Fiji","FJI","East Asia & Pacific","Upper middle income","Blend",NA,"Fiji","FJI","Fiji","FJI","Gini index","SI.POV.GINI","2019",30.7
+"France","FRA","Europe & Central Asia","High income",NA,"EMU","France","FRA","France","FRA","Gini index","SI.POV.GINI","2020",30.7
+"Faroe Islands","FRO","Europe & Central Asia","High income",NA,NA,"Faroe Islands","FRO",NA,NA,NA,NA,NA,NA
+"Micronesia, Fed. Sts.","FSM","East Asia & Pacific","Lower middle income","IDA",NA,"Micronesia (Federated States of)","FSM","Micronesia, Fed. Sts.","FSM","Gini index","SI.POV.GINI","2013",40.1
+"Gabon","GAB","Sub-Saharan Africa","Upper middle income","IBRD",NA,"Gabon","GAB","Gabon","GAB","Gini index","SI.POV.GINI","2017",38
+"United Kingdom","GBR","Europe & Central Asia","High income",NA,NA,"United Kingdom","GBR","United Kingdom","GBR","Gini index","SI.POV.GINI","2020",32.6
+"Georgia","GEO","Europe & Central Asia","Upper middle income","IBRD",NA,"Georgia","GEO","Georgia","GEO","Gini index","SI.POV.GINI","2021",34.2
+"Ghana","GHA","Sub-Saharan Africa","Lower middle income","IDA","HIPC","Ghana","GHA","Ghana","GHA","Gini index","SI.POV.GINI","2016",43.5
+"Gibraltar","GIB","Europe & Central Asia","High income",NA,NA,"Gibraltar","GIB",NA,NA,NA,NA,NA,NA
+"Guinea","GIN","Sub-Saharan Africa","Low income","IDA","HIPC","Guinea","GIN","Guinea","GIN","Gini index","SI.POV.GINI","2018",29.6
+"Gambia, The","GMB","Sub-Saharan Africa","Low income","IDA","HIPC","Gambia","GMB","Gambia, The","GMB","Gini index","SI.POV.GINI","2020",38.8
+"Guinea-Bissau","GNB","Sub-Saharan Africa","Low income","IDA","HIPC","Guinea-Bissau","GNB","Guinea-Bissau","GNB","Gini index","SI.POV.GINI","2018",34.8
+"Equatorial Guinea","GNQ","Sub-Saharan Africa","Upper middle income","IBRD",NA,"Equatorial Guinea","GNQ",NA,NA,NA,NA,NA,NA
+"Greece","GRC","Europe & Central Asia","High income",NA,"EMU","Greece","GRC","Greece","GRC","Gini index","SI.POV.GINI","2020",33.6
+"Grenada","GRD","Latin America & Caribbean","Upper middle income","Blend",NA,"Grenada","GRD",NA,NA,NA,NA,NA,NA
+"Greenland","GRL","Europe & Central Asia","High income",NA,NA,"Greenland","GRL",NA,NA,NA,NA,NA,NA
+"Guatemala","GTM","Latin America & Caribbean","Upper middle income","IBRD",NA,"Guatemala","GTM","Guatemala","GTM","Gini index","SI.POV.GINI","2014",48.3
+"Guam","GUM","East Asia & Pacific","High income",NA,NA,"Guam","GUM",NA,NA,NA,NA,NA,NA
+"Guyana","GUY","Latin America & Caribbean","Upper middle income","IDA","HIPC","Guyana","GUY",NA,NA,NA,NA,NA,NA
+"Hong Kong SAR, China","HKG","East Asia & Pacific","High income",NA,NA,"Hong Kong SAR China","HKG",NA,NA,NA,NA,NA,NA
+"Honduras","HND","Latin America & Caribbean","Lower middle income","IDA","HIPC","Honduras","HND","Honduras","HND","Gini index","SI.POV.GINI","2019",48.2
+"Croatia","HRV","Europe & Central Asia","High income","IBRD",NA,"Croatia","HRV","Croatia","HRV","Gini index","SI.POV.GINI","2020",29.5
+"Haiti","HTI","Latin America & Caribbean","Lower middle income","IDA","HIPC","Haiti","HTI","Haiti","HTI","Gini index","SI.POV.GINI","2012",41.1
+"Hungary","HUN","Europe & Central Asia","High income",NA,NA,"Hungary","HUN","Hungary","HUN","Gini index","SI.POV.GINI","2020",29.7
+"Indonesia","IDN","East Asia & Pacific","Lower middle income","IBRD",NA,"Indonesia","IDN","Indonesia","IDN","Gini index","SI.POV.GINI","2022",37.9
+"Isle of Man","IMN","Europe & Central Asia","High income",NA,NA,"Isle of Man","IMN",NA,NA,NA,NA,NA,NA
+"India","IND","South Asia","Lower middle income","IBRD",NA,"India","IND","India","IND","Gini index","SI.POV.GINI","2019",35.7
+"Ireland","IRL","Europe & Central Asia","High income",NA,"EMU","Ireland","IRL","Ireland","IRL","Gini index","SI.POV.GINI","2020",29.2
+"Iran, Islamic Rep.","IRN","Middle East & North Africa","Lower middle income","IBRD",NA,"Iran","IRN","Iran, Islamic Rep.","IRN","Gini index","SI.POV.GINI","2019",40.9
+"Iraq","IRQ","Middle East & North Africa","Upper middle income","IBRD",NA,"Iraq","IRQ","Iraq","IRQ","Gini index","SI.POV.GINI","2012",29.5
+"Iceland","ISL","Europe & Central Asia","High income",NA,NA,"Iceland","ISL","Iceland","ISL","Gini index","SI.POV.GINI","2017",26.1
+"Israel","ISR","Middle East & North Africa","High income",NA,NA,"Israel","ISR","Israel","ISR","Gini index","SI.POV.GINI","2018",38.6
+"Italy","ITA","Europe & Central Asia","High income",NA,"EMU","Italy","ITA","Italy","ITA","Gini index","SI.POV.GINI","2020",35.2
+"Jamaica","JAM","Latin America & Caribbean","Upper middle income","IBRD",NA,"Jamaica","JAM","Jamaica","JAM","Gini index","SI.POV.GINI","2004",45.5
+"Jordan","JOR","Middle East & North Africa","Upper middle income","IBRD",NA,"Jordan","JOR","Jordan","JOR","Gini index","SI.POV.GINI","2010",33.7
+"Japan","JPN","East Asia & Pacific","High income",NA,NA,"Japan","JPN","Japan","JPN","Gini index","SI.POV.GINI","2013",32.9
+"Kazakhstan","KAZ","Europe & Central Asia","Upper middle income","IBRD",NA,"Kazakhstan","KAZ","Kazakhstan","KAZ","Gini index","SI.POV.GINI","2018",27.8
+"Kenya","KEN","Sub-Saharan Africa","Lower middle income","Blend",NA,"Kenya","KEN","Kenya","KEN","Gini index","SI.POV.GINI","2015",40.8
+"Kyrgyz Republic","KGZ","Europe & Central Asia","Lower middle income","IDA",NA,"Kyrgyzstan","KGZ","Kyrgyz Republic","KGZ","Gini index","SI.POV.GINI","2020",29
+"Cambodia","KHM","East Asia & Pacific","Lower middle income","IDA",NA,"Cambodia","KHM",NA,NA,NA,NA,NA,NA
+"Kiribati","KIR","East Asia & Pacific","Lower middle income","IDA",NA,"Kiribati","KIR","Kiribati","KIR","Gini index","SI.POV.GINI","2019",27.8
+"St. Kitts and Nevis","KNA","Latin America & Caribbean","High income","IBRD",NA,"St. Kitts & Nevis","KNA",NA,NA,NA,NA,NA,NA
+"Korea, Rep.","KOR","East Asia & Pacific","High income",NA,NA,"South Korea","KOR","Korea, Rep.","KOR","Gini index","SI.POV.GINI","2016",31.4
+"Kuwait","KWT","Middle East & North Africa","High income",NA,NA,"Kuwait","KWT",NA,NA,NA,NA,NA,NA
+"Lao PDR","LAO","East Asia & Pacific","Lower middle income","IDA",NA,"Laos","LAO","Lao PDR","LAO","Gini index","SI.POV.GINI","2018",38.8
+"Lebanon","LBN","Middle East & North Africa","Lower middle income","IBRD",NA,"Lebanon","LBN","Lebanon","LBN","Gini index","SI.POV.GINI","2011",31.8
+"Liberia","LBR","Sub-Saharan Africa","Low income","IDA","HIPC","Liberia","LBR","Liberia","LBR","Gini index","SI.POV.GINI","2016",35.3
+"Libya","LBY","Middle East & North Africa","Upper middle income","IBRD",NA,"Libya","LBY",NA,NA,NA,NA,NA,NA
+"St. Lucia","LCA","Latin America & Caribbean","Upper middle income","Blend",NA,"St. Lucia","LCA","St. Lucia","LCA","Gini index","SI.POV.GINI","2016",51.2
+"Liechtenstein","LIE","Europe & Central Asia","High income",NA,NA,"Liechtenstein","LIE",NA,NA,NA,NA,NA,NA
+"Sri Lanka","LKA","South Asia","Lower middle income","IDA",NA,"Sri Lanka","LKA","Sri Lanka","LKA","Gini index","SI.POV.GINI","2019",37.7
+"Lesotho","LSO","Sub-Saharan Africa","Lower middle income","IDA",NA,"Lesotho","LSO","Lesotho","LSO","Gini index","SI.POV.GINI","2017",44.9
+"Lithuania","LTU","Europe & Central Asia","High income",NA,"EMU","Lithuania","LTU","Lithuania","LTU","Gini index","SI.POV.GINI","2020",36
+"Luxembourg","LUX","Europe & Central Asia","High income",NA,"EMU","Luxembourg","LUX","Luxembourg","LUX","Gini index","SI.POV.GINI","2020",33.4
+"Latvia","LVA","Europe & Central Asia","High income",NA,"EMU","Latvia","LVA","Latvia","LVA","Gini index","SI.POV.GINI","2020",35.7
+"Macao SAR, China","MAC","East Asia & Pacific","High income",NA,NA,"Macao SAR China","MAC",NA,NA,NA,NA,NA,NA
+"St. Martin (French part)","MAF","Latin America & Caribbean","High income",NA,NA,"Saint Martin (French part)","MAF",NA,NA,NA,NA,NA,NA
+"Morocco","MAR","Middle East & North Africa","Lower middle income","IBRD",NA,"Morocco","MAR","Morocco","MAR","Gini index","SI.POV.GINI","2013",39.5
+"Monaco","MCO","Europe & Central Asia","High income",NA,NA,"Monaco","MCO",NA,NA,NA,NA,NA,NA
+"Moldova","MDA","Europe & Central Asia","Upper middle income","IBRD",NA,"Moldova","MDA","Moldova","MDA","Gini index","SI.POV.GINI","2021",25.7
+"Madagascar","MDG","Sub-Saharan Africa","Low income","IDA","HIPC","Madagascar","MDG","Madagascar","MDG","Gini index","SI.POV.GINI","2012",42.6
+"Maldives","MDV","South Asia","Upper middle income","IDA",NA,"Maldives","MDV","Maldives","MDV","Gini index","SI.POV.GINI","2019",29.3
+"Mexico","MEX","Latin America & Caribbean","Upper middle income","IBRD",NA,"Mexico","MEX","Mexico","MEX","Gini index","SI.POV.GINI","2020",45.4
+"Marshall Islands","MHL","East Asia & Pacific","Upper middle income","IDA",NA,"Marshall Islands","MHL","Marshall Islands","MHL","Gini index","SI.POV.GINI","2019",35.5
+"North Macedonia","MKD","Europe & Central Asia","Upper middle income","IBRD",NA,"North Macedonia","MKD","North Macedonia","MKD","Gini index","SI.POV.GINI","2019",33.5
+"Mali","MLI","Sub-Saharan Africa","Low income","IDA","HIPC","Mali","MLI","Mali","MLI","Gini index","SI.POV.GINI","2018",36.1
+"Malta","MLT","Middle East & North Africa","High income",NA,"EMU","Malta","MLT","Malta","MLT","Gini index","SI.POV.GINI","2020",31.4
+"Myanmar","MMR","East Asia & Pacific","Lower middle income","IDA",NA,"Myanmar (Burma)","MMR","Myanmar","MMR","Gini index","SI.POV.GINI","2017",30.7
+"Montenegro","MNE","Europe & Central Asia","Upper middle income","IBRD",NA,"Montenegro","MNE","Montenegro","MNE","Gini index","SI.POV.GINI","2018",36.8
+"Mongolia","MNG","East Asia & Pacific","Lower middle income","IBRD",NA,"Mongolia","MNG","Mongolia","MNG","Gini index","SI.POV.GINI","2018",32.7
+"Northern Mariana Islands","MNP","East Asia & Pacific","High income",NA,NA,"Northern Mariana Islands","MNP",NA,NA,NA,NA,NA,NA
+"Mozambique","MOZ","Sub-Saharan Africa","Low income","IDA","HIPC","Mozambique","MOZ","Mozambique","MOZ","Gini index","SI.POV.GINI","2014",54
+"Mauritania","MRT","Sub-Saharan Africa","Lower middle income","IDA","HIPC","Mauritania","MRT","Mauritania","MRT","Gini index","SI.POV.GINI","2014",32.6
+"Mauritius","MUS","Sub-Saharan Africa","Upper middle income","IBRD",NA,"Mauritius","MUS","Mauritius","MUS","Gini index","SI.POV.GINI","2017",36.8
+"Malawi","MWI","Sub-Saharan Africa","Low income","IDA","HIPC","Malawi","MWI","Malawi","MWI","Gini index","SI.POV.GINI","2019",38.5
+"Malaysia","MYS","East Asia & Pacific","Upper middle income","IBRD",NA,"Malaysia","MYS","Malaysia","MYS","Gini index","SI.POV.GINI","2018",41.2
+"Namibia","NAM","Sub-Saharan Africa","Upper middle income","IBRD",NA,"Namibia","NAM","Namibia","NAM","Gini index","SI.POV.GINI","2015",59.1
+"New Caledonia","NCL","East Asia & Pacific","High income",NA,NA,"New Caledonia","NCL",NA,NA,NA,NA,NA,NA
+"Niger","NER","Sub-Saharan Africa","Low income","IDA","HIPC","Niger","NER","Niger","NER","Gini index","SI.POV.GINI","2018",37.3
+"Nigeria","NGA","Sub-Saharan Africa","Lower middle income","Blend",NA,"Nigeria","NGA","Nigeria","NGA","Gini index","SI.POV.GINI","2018",35.1
+"Nicaragua","NIC","Latin America & Caribbean","Lower middle income","IDA","HIPC","Nicaragua","NIC","Nicaragua","NIC","Gini index","SI.POV.GINI","2014",46.2
+"Netherlands","NLD","Europe & Central Asia","High income",NA,"EMU","Netherlands","NLD","Netherlands","NLD","Gini index","SI.POV.GINI","2020",26
+"Norway","NOR","Europe & Central Asia","High income",NA,NA,"Norway","NOR","Norway","NOR","Gini index","SI.POV.GINI","2019",27.7
+"Nepal","NPL","South Asia","Lower middle income","IDA",NA,"Nepal","NPL","Nepal","NPL","Gini index","SI.POV.GINI","2010",32.8
+"Nauru","NRU","East Asia & Pacific","High income","IBRD",NA,"Nauru","NRU","Nauru","NRU","Gini index","SI.POV.GINI","2012",32.4
+"New Zealand","NZL","East Asia & Pacific","High income",NA,NA,"New Zealand","NZL",NA,NA,NA,NA,NA,NA
+"Oman","OMN","Middle East & North Africa","High income",NA,NA,"Oman","OMN",NA,NA,NA,NA,NA,NA
+"Pakistan","PAK","South Asia","Lower middle income","Blend",NA,"Pakistan","PAK","Pakistan","PAK","Gini index","SI.POV.GINI","2018",29.6
+"Panama","PAN","Latin America & Caribbean","High income","IBRD",NA,"Panama","PAN","Panama","PAN","Gini index","SI.POV.GINI","2021",50.9
+"Peru","PER","Latin America & Caribbean","Upper middle income","IBRD",NA,"Peru","PER","Peru","PER","Gini index","SI.POV.GINI","2021",40.2
+"Philippines","PHL","East Asia & Pacific","Lower middle income","IBRD",NA,"Philippines","PHL","Philippines","PHL","Gini index","SI.POV.GINI","2021",40.7
+"Palau","PLW","East Asia & Pacific","Upper middle income","IBRD",NA,"Palau","PLW",NA,NA,NA,NA,NA,NA
+"Papua New Guinea","PNG","East Asia & Pacific","Lower middle income","Blend",NA,"Papua New Guinea","PNG","Papua New Guinea","PNG","Gini index","SI.POV.GINI","2009",41.9
+"Poland","POL","Europe & Central Asia","High income","IBRD",NA,"Poland","POL","Poland","POL","Gini index","SI.POV.GINI","2019",28.8
+"Puerto Rico","PRI","Latin America & Caribbean","High income",NA,NA,"Puerto Rico","PRI",NA,NA,NA,NA,NA,NA
+"Korea, Dem. People's Rep.","PRK","East Asia & Pacific","Low income",NA,NA,"North Korea","PRK",NA,NA,NA,NA,NA,NA
+"Portugal","PRT","Europe & Central Asia","High income",NA,"EMU","Portugal","PRT","Portugal","PRT","Gini index","SI.POV.GINI","2020",34.7
+"Paraguay","PRY","Latin America & Caribbean","Upper middle income","IBRD",NA,"Paraguay","PRY","Paraguay","PRY","Gini index","SI.POV.GINI","2021",42.9
+"West Bank and Gaza","PSE","Middle East & North Africa","Lower middle income",NA,NA,"Palestinian Territories","PSE","West Bank and Gaza","PSE","Gini index","SI.POV.GINI","2016",33.7
+"French Polynesia","PYF","East Asia & Pacific","High income",NA,NA,"French Polynesia","PYF",NA,NA,NA,NA,NA,NA
+"Qatar","QAT","Middle East & North Africa","High income",NA,NA,"Qatar","QAT",NA,NA,NA,NA,NA,NA
+"Romania","ROU","Europe & Central Asia","High income","IBRD",NA,"Romania","ROU","Romania","ROU","Gini index","SI.POV.GINI","2020",34.6
+"Russian Federation","RUS","Europe & Central Asia","Upper middle income","IBRD",NA,"Russia","RUS","Russian Federation","RUS","Gini index","SI.POV.GINI","2020",36
+"Rwanda","RWA","Sub-Saharan Africa","Low income","IDA","HIPC","Rwanda","RWA","Rwanda","RWA","Gini index","SI.POV.GINI","2016",43.7
+"Saudi Arabia","SAU","Middle East & North Africa","High income",NA,NA,"Saudi Arabia","SAU",NA,NA,NA,NA,NA,NA
+"Sudan","SDN","Sub-Saharan Africa","Low income","IDA","HIPC","Sudan","SDN","Sudan","SDN","Gini index","SI.POV.GINI","2014",34.2
+"Senegal","SEN","Sub-Saharan Africa","Lower middle income","IDA","HIPC","Senegal","SEN","Senegal","SEN","Gini index","SI.POV.GINI","2018",38.1
+"Singapore","SGP","East Asia & Pacific","High income",NA,NA,"Singapore","SGP",NA,NA,NA,NA,NA,NA
+"Solomon Islands","SLB","East Asia & Pacific","Lower middle income","IDA",NA,"Solomon Islands","SLB","Solomon Islands","SLB","Gini index","SI.POV.GINI","2012",37.1
+"Sierra Leone","SLE","Sub-Saharan Africa","Low income","IDA","HIPC","Sierra Leone","SLE","Sierra Leone","SLE","Gini index","SI.POV.GINI","2018",35.7
+"El Salvador","SLV","Latin America & Caribbean","Lower middle income","IBRD",NA,"El Salvador","SLV","El Salvador","SLV","Gini index","SI.POV.GINI","2021",39
+"San Marino","SMR","Europe & Central Asia","High income",NA,NA,"San Marino","SMR",NA,NA,NA,NA,NA,NA
+"Somalia","SOM","Sub-Saharan Africa","Low income","IDA","HIPC","Somalia","SOM",NA,NA,NA,NA,NA,NA
+"Serbia","SRB","Europe & Central Asia","Upper middle income","IBRD",NA,"Serbia","SRB","Serbia","SRB","Gini index","SI.POV.GINI","2020",35
+"South Sudan","SSD","Sub-Saharan Africa","Low income","IDA",NA,"South Sudan","SSD","South Sudan","SSD","Gini index","SI.POV.GINI","2016",44.1
+"São Tomé and Príncipe","STP","Sub-Saharan Africa","Lower middle income","IDA","HIPC","São Tomé & Príncipe","STP","Sao Tome and Principe","STP","Gini index","SI.POV.GINI","2017",40.7
+"Suriname","SUR","Latin America & Caribbean","Upper middle income","IBRD",NA,"Suriname","SUR",NA,NA,NA,NA,NA,NA
+"Slovak Republic","SVK","Europe & Central Asia","High income",NA,"EMU","Slovakia","SVK","Slovak Republic","SVK","Gini index","SI.POV.GINI","2019",23.2
+"Slovenia","SVN","Europe & Central Asia","High income",NA,"EMU","Slovenia","SVN","Slovenia","SVN","Gini index","SI.POV.GINI","2020",24
+"Sweden","SWE","Europe & Central Asia","High income",NA,NA,"Sweden","SWE","Sweden","SWE","Gini index","SI.POV.GINI","2020",28.9
+"Eswatini","SWZ","Sub-Saharan Africa","Lower middle income","IBRD",NA,"Eswatini","SWZ","Eswatini","SWZ","Gini index","SI.POV.GINI","2016",54.6
+"Sint Maarten (Dutch part)","SXM","Latin America & Caribbean","High income",NA,NA,"Sint Maarten","SXM",NA,NA,NA,NA,NA,NA
+"Seychelles","SYC","Sub-Saharan Africa","High income","IBRD",NA,"Seychelles","SYC","Seychelles","SYC","Gini index","SI.POV.GINI","2018",32.1
+"Syrian Arab Republic","SYR","Middle East & North Africa","Low income","IDA",NA,"Syria","SYR","Syrian Arab Republic","SYR","Gini index","SI.POV.GINI","2003",37.5
+"Turks and Caicos Islands","TCA","Latin America & Caribbean","High income",NA,NA,"Turks & Caicos Islands","TCA",NA,NA,NA,NA,NA,NA
+"Chad","TCD","Sub-Saharan Africa","Low income","IDA","HIPC","Chad","TCD","Chad","TCD","Gini index","SI.POV.GINI","2018",37.5
+"Togo","TGO","Sub-Saharan Africa","Low income","IDA","HIPC","Togo","TGO","Togo","TGO","Gini index","SI.POV.GINI","2018",42.4
+"Thailand","THA","East Asia & Pacific","Upper middle income","IBRD",NA,"Thailand","THA","Thailand","THA","Gini index","SI.POV.GINI","2021",35.1
+"Tajikistan","TJK","Europe & Central Asia","Lower middle income","IDA",NA,"Tajikistan","TJK","Tajikistan","TJK","Gini index","SI.POV.GINI","2015",34
+"Turkmenistan","TKM","Europe & Central Asia","Upper middle income","IBRD",NA,"Turkmenistan","TKM",NA,NA,NA,NA,NA,NA
+"Timor-Leste","TLS","East Asia & Pacific","Lower middle income","Blend",NA,"Timor-Leste","TLS","Timor-Leste","TLS","Gini index","SI.POV.GINI","2014",28.7
+"Tonga","TON","East Asia & Pacific","Upper middle income","IDA",NA,"Tonga","TON","Tonga","TON","Gini index","SI.POV.GINI","2015",33.5
+"Trinidad and Tobago","TTO","Latin America & Caribbean","High income","IBRD",NA,"Trinidad & Tobago","TTO",NA,NA,NA,NA,NA,NA
+"Tunisia","TUN","Middle East & North Africa","Lower middle income","IBRD",NA,"Tunisia","TUN","Tunisia","TUN","Gini index","SI.POV.GINI","2015",32.8
+"Türkiye","TUR","Europe & Central Asia","Upper middle income","IBRD",NA,"Turkey","TUR","Turkiye","TUR","Gini index","SI.POV.GINI","2019",41.9
+"Tuvalu","TUV","East Asia & Pacific","Upper middle income","IDA",NA,"Tuvalu","TUV","Tuvalu","TUV","Gini index","SI.POV.GINI","2010",39.1
+"Taiwan, China","TWN","East Asia & Pacific","High income",NA,NA,"Taiwan","TWN",NA,NA,NA,NA,NA,NA
+"Tanzania","TZA","Sub-Saharan Africa","Lower middle income","IDA","HIPC","Tanzania","TZA","Tanzania","TZA","Gini index","SI.POV.GINI","2018",40.5
+"Uganda","UGA","Sub-Saharan Africa","Low income","IDA","HIPC","Uganda","UGA","Uganda","UGA","Gini index","SI.POV.GINI","2019",42.7
+"Ukraine","UKR","Europe & Central Asia","Lower middle income","IBRD",NA,"Ukraine","UKR","Ukraine","UKR","Gini index","SI.POV.GINI","2020",25.6
+"Uruguay","URY","Latin America & Caribbean","High income","IBRD",NA,"Uruguay","URY","Uruguay","URY","Gini index","SI.POV.GINI","2021",40.8
+"United States","USA","North America","High income",NA,NA,"United States","USA","United States","USA","Gini index","SI.POV.GINI","2020",39.7
+"Uzbekistan","UZB","Europe & Central Asia","Lower middle income","Blend",NA,"Uzbekistan","UZB","Uzbekistan","UZB","Gini index","SI.POV.GINI","2003",35.3
+"St. Vincent and the Grenadines","VCT","Latin America & Caribbean","Upper middle income","Blend",NA,"St. Vincent & Grenadines","VCT",NA,NA,NA,NA,NA,NA
+"Venezuela, RB","VEN","Latin America & Caribbean",NA,"IBRD",NA,"Venezuela","VEN",NA,NA,NA,NA,NA,NA
+"British Virgin Islands","VGB","Latin America & Caribbean","High income",NA,NA,"British Virgin Islands","VGB",NA,NA,NA,NA,NA,NA
+"Virgin Islands (U.S.)","VIR","Latin America & Caribbean","High income",NA,NA,"U.S. Virgin Islands","VIR",NA,NA,NA,NA,NA,NA
+"Vietnam","VNM","East Asia & Pacific","Lower middle income","IBRD",NA,"Vietnam","VNM","Vietnam","VNM","Gini index","SI.POV.GINI","2020",36.8
+"Vanuatu","VUT","East Asia & Pacific","Lower middle income","IDA",NA,"Vanuatu","VUT","Vanuatu","VUT","Gini index","SI.POV.GINI","2019",32.3
+"Samoa","WSM","East Asia & Pacific","Lower middle income","IDA",NA,"Samoa","WSM","Samoa","WSM","Gini index","SI.POV.GINI","2013",38.7
+"Kosovo","XKX","Europe & Central Asia","Upper middle income","IDA",NA,"Kosovo","XKX","Kosovo","XKX","Gini index","SI.POV.GINI","2017",29
+"Yemen, Rep.","YEM","Middle East & North Africa","Low income","IDA",NA,"Yemen","YEM","Yemen, Rep.","YEM","Gini index","SI.POV.GINI","2014",36.7
+"South Africa","ZAF","Sub-Saharan Africa","Upper middle income","IBRD",NA,"South Africa","ZAF","South Africa","ZAF","Gini index","SI.POV.GINI","2014",63
+"Zambia","ZMB","Sub-Saharan Africa","Low income","IDA","HIPC","Zambia","ZMB","Zambia","ZMB","Gini index","SI.POV.GINI","2015",57.1
+"Zimbabwe","ZWE","Sub-Saharan Africa","Lower middle income","Blend",NA,"Zimbabwe","ZWE","Zimbabwe","ZWE","Gini index","SI.POV.GINI","2019",50.3
